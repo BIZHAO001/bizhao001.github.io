@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bizhao Pang"
-description              : "Research Fellow at ATMRI, NTU. Safe & robust AI, optimization under uncertainty, air transportation."
+description              : "Optimization, safe and robust AI, intelligent ATM & UAM"
 url                      : "https://bizhao001.github.io"
 baseurl                  : ""   # Empty for user site at bizhao001.github.io
 repository               : "bizhao001.github.io"   # Must match: github.com/bizhao001/bizhao001.github.io

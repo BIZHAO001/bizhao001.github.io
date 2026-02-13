@@ -19,14 +19,17 @@ redirect_from:
 
 Research Fellow at the [Air Traffic Management Research Institute (ATMRI)](https://www.ntu.edu.sg/atmri), Nanyang Technological University, Singapore, specializing in safe and robust AI, optimization under uncertainty, multi-agent systems, and human–AI collaboration. My research develops principled AI and optimization methods for safety-critical air transportation systems, with applications in Air Traffic Management (ATM), Advanced Air Mobility (AAM), and Air Traffic Flow Management (ATFM). My research has been published in leading transportation, safety, and AI journals, including Transportation Research Part C/E, IEEE T-ITS, IEEE TVT, RESS, AEI, AST, CJA, as well as at top AI conferences such as AAMAS and ICTAI. With 14 years of R&D experience in ATM/AAM and AI, my long-term research vision is to advance the transformation of air transportation systems toward autonomous, safe & resilient, and human–AI hybrid operations.
 
-**Research Interests:** Optimization under uncertainty, scheduling and routing, multi-agent coordination and learning, human–AI teaming. *Theories and Tools:* Advanced mathematical optimization, probabilistic modeling, statistical learning, deep reinforcement learning, metaheuristic algorithms, and large language models (LLMs). *Applications:* Urban air mobility (UAM), air traffic management (ATM), autonomous systems, drone logistics network, and safety-critical human–AI hybrid systems.
+**Research Interests:** 
+- Optimization under uncertainty, scheduling and routing, multi-agent coordination and learning, human–AI teaming. 
+- *Theories and Tools:* Advanced mathematical optimization, probabilistic modeling, statistical learning, deep reinforcement learning, metaheuristic algorithms, and large language models (LLMs). 
+- *Applications:* Urban air mobility (UAM), air traffic management (ATM), autonomous systems, drone logistics network, and safety-critical human–AI hybrid systems.
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
 - *2026.01*: &nbsp;🎉 AAMAS 2026 full paper accepted for Oral presentation on constrained multi-agent reinforcement learning for safe trajectory planning.
 - *2025.05*: &nbsp;🎉 Extended abstract accepted at AAMAS 2025 on decentralized deep reinforcement learning for cooperative multi-agent flight trajectory planning in adverse weather.
-- *2024.12*: &nbsp;🎉 Joined ATMRI as Research Fellow. Leading AI-assisted Regional ATFM and AI4ATM projects.
+- *2023.12*: &nbsp;🎉 Joined ATMRI as Research Fellow. Leading AI-assisted Regional ATFM and AI4ATM projects.
 - *2023.10*: &nbsp;🎉 Successfully defended Ph.D. thesis on risk-based route planning and decision-making for UAS in urban environments.
 
 <span class='anchor' id='-publications'></span>
@@ -48,12 +51,12 @@ Research Fellow at the [Air Traffic Management Research Institute (ATMRI)](https
 
 ## Journal Papers
 
-- **Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli. In-flight multi-aircraft trajectory replanning under dynamic thunderstorm cells using decentralized deep reinforcement learning. *Advanced Engineering Informatics*, 65 (2025): 103157. (SCI, IF: 9.9)
-- **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations. *Transportation Research Part E*, 192 (2024): 103717. (SCI, IF: 8.8)
-- **Bizhao Pang**, Kin Huat Low, Vu N. Duong. Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time. *Transportation Research Part C*, 161 (2024): 104547. (SCI, IF: 7.9)
-- **Bizhao Pang**, Kin Huat Low, Chen Lv. Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm. *Transportation Research Part C*, 2022. (SCI, IF: 7.9)
-- **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments. *Reliability Engineering & System Safety*, 2022: 108399. (SCI, IF: 11.0)
-- **Bizhao Pang**, Wei Dai, Xinting Hu, Fuqing Dai, Kin Huat Low. Multiple air route crossing waypoints optimization via artificial potential field method. *Chinese Journal of Aeronautics*, 34(4), 2021. (SCI, IF: 5.7)
+- **Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli. In-flight multi-aircraft trajectory replanning under dynamic thunderstorm cells using decentralized deep reinforcement learning. *Advanced Engineering Informatics*, 65 (2025): 103157. 
+- **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations. *Transportation Research Part E*, 192 (2024): 103717. 
+- **Bizhao Pang**, Kin Huat Low, Vu N. Duong. Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time. *Transportation Research Part C*, 161 (2024): 104547.
+- **Bizhao Pang**, Kin Huat Low, Chen Lv. Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm. *Transportation Research Part C*, 2022.
+- **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments. *Reliability Engineering & System Safety*, 2022: 108399.
+- **Bizhao Pang**, Wei Dai, Xinting Hu, Fuqing Dai, Kin Huat Low. Multiple air route crossing waypoints optimization via artificial potential field method. *Chinese Journal of Aeronautics*, 34(4), 2021.
 - Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of Urban Air Mobility at aerodrome. *Transportation Research Part C* (2026), Accepted. (SCI, IF: 7.9)
 - Mingcheng Zhang, **Bizhao Pang**, Chao Yan, Mir Feroskhan, Chen Lv. Real-time avoidance of building and dynamic geo-fencing for urban air mobility using deep reinforcement learning. *IEEE Transactions on Intelligent Transportation Systems*, (2025). (SCI, IF: 8.4)
 - Wei Dai, **Bizhao Pang**, Kin Huat Low. Conflict-free four-dimensional path planning for urban air mobility considering airspace occupancy. *Aerospace Science and Technology*, 119 (2021): 107154. (SCI, IF: 5.8)

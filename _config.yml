@@ -7,8 +7,10 @@
 
 # Site Settings
 title                    : "Bizhao Pang"
-description              : "Research Fellow at ATMRI, NTU. Safe & robust AI, optimization under uncertainty, multi-agent systems for air transportation."
-repository               : "bizhao001.github.io"   # Must match: github.com/YOUR_USERNAME/YOUR_USERNAME.github.io
+description              : "Research Fellow at ATMRI, NTU. Safe & robust AI, optimization under uncertainty, air transportation."
+url                      : "https://bizhao001.github.io"
+baseurl                  : ""   # Empty for user site at bizhao001.github.io
+repository               : "bizhao001.github.io"   # Must match: github.com/bizhao001/bizhao001.github.io
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,13 +25,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bizhao Pang"
   avatar           : "images/bizhao-pang.png"
-  bio              : "Air Traffic Management Research Institute (ATMRI), NTU"
-  location         : "Singapore"
+  bio              : "ATMRI, NTU, Singapore"
+  # location         : "Singapore"
   employer         : "Nanyang Technological University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=UCdpKs8AAAAJ&hl=en&oi=ao"
   email            : "bizhao001@e.ntu.edu.sg"
-  researchgate     : ""  # Add your ResearchGate URL if desired
+  # researchgate     : ""  # Add your ResearchGate URL if desired
+  orcid            : "0000-0003-1497-5493"
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +48,6 @@ author:
   lastfm           :
   linkedin         : ""  # Add your LinkedIn username if desired
   dblp             :
-  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :

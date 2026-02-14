@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bizhao Pang"
-description              : "Optimization, safe and robust AI, intelligent ATM & UAM"
+description              : "Optimization, safe and robust human-centered AI for intelligent ATM & UAM"
 url                      : "https://bizhao001.github.io"
 baseurl                  : ""   # Empty for user site at bizhao001.github.io
 repository               : "bizhao001.github.io"   # Must match: github.com/bizhao001/bizhao001.github.io
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bizhao Pang"
   avatar           : "images/bizhao-pang.png"
-  bio              : "ATMRI, NTU, Singapore"
+  bio              : "Ph.D and Research Fellow at NTU"
   # location         : "Singapore"
   employer         : "Nanyang Technological University"
   pubmed           : 

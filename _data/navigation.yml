@@ -9,9 +9,6 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Education"
     url: "/#-education"
 
@@ -20,6 +17,3 @@ main:
 
   - title: "Research Projects"
     url: "/#-research-projects"
-
-  - title: "Showcase"
-    url: "/#-showcase"

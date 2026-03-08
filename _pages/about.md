@@ -44,13 +44,78 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 <div class="paper-box">
   <div class="paper-box-image">
+    <span class="badge">AI for ATM</span>
+    <img src="images/BIZHAO/AAMAS2026.png" alt="MAF-Net for safe trajectory planning">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning</h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Mingcheng Zhang, Xinting Hu, Duc-Thinh Pham, Sameer Alam, Guglielmo Lulli</p>
+    <p style="margin: 0.5em 0;"><em>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.65109/MQDV9851">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>MAF-Net: A multi-head action filter network integrated with decentralized MARL to enable safe and scalable multi-agent planning under uncertainty.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">TRC 2026</span>
+    <img src="images/BIZHAO/TRC2026.png" alt="U-Aerodrome airspace reconfiguration for UAM at aerodrome">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of urban air mobility at aerodrome</h3>
+    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang</strong>, Sameer Alam, Mir Feroskhan</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2025.105506">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>U-Aerodrome, a data-driven and risk-bounded airspace reconfiguration framework designed to support the safe and flexible integration of UAM operations near controlled aerodromes.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">RESS 2026</span>
+    <img src="images/BIZHAO/RESS2026.png" alt="U-SAFE trajectory planning for UAM at aerodrome">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning</h3>
+    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang</strong>, Sameer Alam, Mir Feroskhan</p>
+    <p style="margin: 0.5em 0;"><em>Reliability Engineering &amp; System Safety</em> (RESS), 2026.</p>
+    <ul style="margin: 0.5em 0;">
+      <li>An integrated trajectory planning framework that combines proactive risk-based planning with reactive inflight conflict resolution near aerodromes.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">AEI 2025</span>
+    <img src="images/BIZHAO/AEI2025.png" alt="Multi-aircraft trajectory planning under thunderstorms">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">A multi-aircraft co-operative trajectory planning model under dynamic thunderstorm cells using decentralized deep reinforcement learning</h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli</p>
+    <p style="margin: 0.5em 0;"><em>Advanced Engineering Informatics</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.aei.2025.103157">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>A framework for multi-aircraft trajectory planning under dynamic thunderstorms.</li>
+      <li>A Decentralized MDP for cooperative planning to handle secondary conflicts.</li>
+      <li>An improved Independent Deep Deterministic Policy Gradient solution algorithm.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
     <span class="badge">TRE 2024</span>
-    <img src="images/TRE_2025.png" alt="Stochastic route optimization for safe drone delivery">
+    <img src="images/BIZHAO/TRE_2024.png" alt="Stochastic route optimization for safe drone delivery">
   </div>
   <div class="paper-box-text">
     <h3 style="margin-top: 0;">Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations</h3>
     <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Wei Dai, Kin Huat Low</p>
-    <p style="margin: 0.5em 0;"><em>Transportation Research Part E: Logistics and Transportation Review</em>, 192 (2024): 103717.</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part E: Logistics and Transportation Review</em></p>
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.tre.2024.103717">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>A two-stage stochastic optimization method for AAM risk management.</li>
@@ -59,13 +124,54 @@ My research centers on AI and optimization for safety-critical air transportatio
   </div>
 </div>
 
-**In-flight multi-aircraft trajectory replanning under dynamic thunderstorm cells using decentralized deep reinforcement learning.**  
-**Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli  
-*Advanced Engineering Informatics*, 65 (2025): 103157. DOI available.
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">TRC 2024</span>
+    <img src="images/BIZHAO/TRC2024.png" alt="Chance-constrained UAM traffic flow optimization">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time</h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Kin Huat Low, Vu N. Duong</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em>, 161 (2024): 104547.</p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2024.104547">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>A chance-constrained UTFM model is developed to optimize UAM traffic flow.</li>
+      <li>A hierarchical stochastic search algorithm is designed to solve the UTFM model.</li>
+    </ul>
+  </div>
+</div>
 
-**Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time.**  
-**Bizhao Pang**, Kin Huat Low, Vu N. Duong  
-*Transportation Research Part C*, 161 (2024): 104547. DOI available.
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">RESS 2022</span>
+    <img src="images/BIZHAO/RESS2022.PNG" alt="UAV path optimization with third-party risk assessment">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments</h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Wei Dai, Kin Huat Low</p>
+    <p style="margin: 0.5em 0;"><em>Reliability Engineering &amp; System Safety</em>, 2022: 108399.</p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.ress.2022.108399">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>A third-party risk assessment framework incorporating fatality risk, property damage risk, and noise impact for safe and societally acceptable UAM operations in low-altitude urban airspace.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">TRC 2022</span>
+    <img src="images/BIZHAO/TRC2022.PNG" alt="Adaptive conflict resolution for multi-UAV 4D routes">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm</h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Kin Huat Low, Chen Lv</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em>, 2022: 103666.</p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2022.103666">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>An adaptive UAV conflict resolution framework for 4D route optimization that integrates scheduling, speed adjustment, and rerouting strategies.</li>
+    </ul>
+  </div>
+</div>
 
 ## Journal Papers
 

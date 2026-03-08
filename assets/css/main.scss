@@ -133,3 +133,40 @@ h1:before, .anchor:before {
     border: 1px solid #eee;
     border-radius: 8px;
 }
+
+/* Gallery section */
+.gallery-section {
+    margin: 2em 0;
+}
+.gallery-section h3 {
+    margin: 1.5em 0 0.75em 0;
+    font-size: 1.1em;
+    color: #555;
+}
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1em;
+}
+.gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.gallery-item img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.2s ease;
+}
+.gallery-item:hover img {
+    transform: scale(1.03);
+}
+.gallery-item figcaption {
+    padding: 0.5em 0.75em;
+    font-size: 0.85em;
+    color: #555;
+    background: #f9f9f9;
+}

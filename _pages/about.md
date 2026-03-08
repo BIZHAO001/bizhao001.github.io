@@ -17,12 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Research Fellow at the [Air Traffic Management Research Institute (ATMRI)](https://www.ntu.edu.sg/atmri), Nanyang Technological University, Singapore, specializing in safe and robust AI, optimization under uncertainty, multi-agent systems, and human–AI collaboration. My research develops principled AI and optimization methods for safety-critical air transportation systems, with applications in Air Traffic Management (ATM), Advanced Air Mobility (AAM), and Air Traffic Flow Management (ATFM). My research has been published in leading transportation, safety, and AI journals, including Transportation Research Part C/E, IEEE T-ITS, IEEE TVT, RESS, AEI, AST, CJA, as well as at top AI conferences such as AAMAS and ICTAI. With 14 years of R&D experience in ATM/AAM and AI, my long-term research vision is to advance the transformation of air transportation systems toward autonomous, safe & resilient, and human–AI hybrid operations.
+I received my Ph.D. in Aerospace Engineering from **Nanyang Technological University** (NTU), Singapore. I am currently a Research Fellow at the Air Traffic Management Research Institute (ATMRI), NTU, where I previously worked as a Research Associate. Before that, I received my Master of Engineering in Air Traffic Management and Operations Research and my Bachelor of Engineering in Air Transportation from the Civil Aviation University of China (CAUC). Together, these background built a strong foundation in airport, airline, and air traffic control operations, mathematical modeling and optimization, which I now combine with AI for **next-generation ATM** and emerging **Advanced Air Mobility** (AAM) systems.
 
-**Research Interests:** 
-- Optimization under uncertainty, scheduling and routing, multi-agent coordination and learning, human–AI teaming. 
-- *Theories and Tools:* Advanced mathematical optimization, probabilistic modeling, statistical learning, deep reinforcement learning, metaheuristic algorithms, and large language models (LLMs). 
-- *Applications:* Urban air mobility (UAM), air traffic management (ATM), autonomous systems, drone logistics network, and safety-critical human–AI hybrid systems.
+My research centers on AI and optimization for safety-critical air transportation systems. The objective is to develop **human-centered AI** and **intelligent decision-support** methods for safer, more efficient, and more resilient AAM and ATM operations. My research interests include optimization under uncertainty, multi-agent systems, safe reinforcement learning, human–AI teaming, and large language models for safety-critical and autonomous trasportation systems. 
+
 
 <span class='anchor' id='-news'></span>
 # 🔥 News

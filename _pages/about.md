@@ -50,7 +50,7 @@ My research centers on AI and optimization for safety-critical air transportatio
   <div class="paper-box-text">
     <h3 style="margin-top: 0;">Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning</h3>
     <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Mingcheng Zhang, Xinting Hu, Duc-Thinh Pham, Sameer Alam, Guglielmo Lulli</p>
-    <p style="margin: 0.5em 0;"><em>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</em></p>
+    <p style="margin: 0.5em 0;"><em>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems: AAMAS 2026 (<strong>Oral</strong>)</em></p>
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.65109/MQDV9851">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>MAF-Net: A multi-head action filter network integrated with decentralized MARL to enable safe and scalable multi-agent planning under uncertainty.</li>
@@ -60,38 +60,7 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <span class="badge">TRC 2026</span>
-    <img src="images/BIZHAO/TRC2026.png" alt="U-Aerodrome airspace reconfiguration for UAM at aerodrome">
-  </div>
-  <div class="paper-box-text">
-    <h3 style="margin-top: 0;">U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of urban air mobility at aerodrome</h3>
-    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang</strong>, Sameer Alam, Mir Feroskhan</p>
-    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em></p>
-    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2025.105506">Paper</a></p>
-    <ul style="margin: 0.5em 0;">
-      <li>U-Aerodrome, a data-driven and risk-bounded airspace reconfiguration framework designed to support the safe and flexible integration of UAM operations near controlled aerodromes.</li>
-    </ul>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <span class="badge">RESS 2026</span>
-    <img src="images/BIZHAO/RESS2026.png" alt="U-SAFE trajectory planning for UAM at aerodrome">
-  </div>
-  <div class="paper-box-text">
-    <h3 style="margin-top: 0;">U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning</h3>
-    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang</strong>, Sameer Alam, Mir Feroskhan</p>
-    <p style="margin: 0.5em 0;"><em>Reliability Engineering &amp; System Safety</em> (RESS), 2026.</p>
-    <ul style="margin: 0.5em 0;">
-      <li>An integrated trajectory planning framework that combines proactive risk-based planning with reactive inflight conflict resolution near aerodromes.</li>
-    </ul>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <span class="badge">AEI 2025</span>
+    <span class="badge">AI for ATM</span>
     <img src="images/BIZHAO/AEI2025.png" alt="Multi-aircraft trajectory planning under thunderstorms">
   </div>
   <div class="paper-box-text">
@@ -109,7 +78,7 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <span class="badge">TRE 2024</span>
+    <span class="badge">Safe AAM</span>
     <img src="images/BIZHAO/TRE_2024.png" alt="Stochastic route optimization for safe drone delivery">
   </div>
   <div class="paper-box-text">
@@ -126,7 +95,7 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <span class="badge">TRC 2024</span>
+    <span class="badge">Safe AAM</span>
     <img src="images/BIZHAO/TRC2024.png" alt="Chance-constrained UAM traffic flow optimization">
   </div>
   <div class="paper-box-text">
@@ -143,7 +112,7 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <span class="badge">RESS 2022</span>
+    <span class="badge">Safe AAM</span>
     <img src="images/BIZHAO/RESS2022.PNG" alt="UAV path optimization with third-party risk assessment">
   </div>
   <div class="paper-box-text">
@@ -159,7 +128,7 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <span class="badge">TRC 2022</span>
+    <span class="badge">Safe AAM</span>
     <img src="images/BIZHAO/TRC2022.PNG" alt="Adaptive conflict resolution for multi-UAV 4D routes">
   </div>
   <div class="paper-box-text">
@@ -169,6 +138,38 @@ My research centers on AI and optimization for safety-critical air transportatio
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2022.103666">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>An adaptive UAV conflict resolution framework for 4D route optimization that integrates scheduling, speed adjustment, and rerouting strategies.</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">UAM-ATM Integration</span>
+    <img src="images/BIZHAO/TRC2026.png" alt="U-Aerodrome airspace reconfiguration for UAM at aerodrome">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of urban air mobility at aerodrome</h3>
+    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang* </strong>, Sameer Alam, Mir Feroskhan (*PhD mentor)</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2025.105506">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>U-Aerodrome, a data-driven and risk-bounded airspace reconfiguration framework designed to support the safe and flexible integration of UAM operations near controlled aerodromes.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">UAM-ATM Integration</span>
+    <img src="images/BIZHAO/RESS2026.png" alt="U-SAFE trajectory planning for UAM at aerodrome">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning</h3>
+    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang</strong>, Sameer Alam, Mir Feroskhan</p>
+    <p style="margin: 0.5em 0;">Under 2nd review, 2026.</p>
+    <ul style="margin: 0.5em 0;">
+      <li>An integrated trajectory planning framework that combines proactive risk-based planning with reactive inflight conflict resolution near aerodromes.</li>
     </ul>
   </div>
 </div>

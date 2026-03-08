@@ -21,6 +21,13 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 
 My research centers on AI and optimization for safety-critical air transportation systems. The objective is to develop **human-centered AI** and **intelligent decision-support** methods for safer, more efficient, and more resilient AAM and ATM operations. My research interests include optimization under uncertainty, multi-agent systems, safe reinforcement learning, human–AI teaming, and large language models for safety-critical and autonomous trasportation systems. 
 
+*Research Summary*
+- **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.
+- **Peer-reviewed publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **800+ citations** on Google Scholar.
+- **Leadership and teamwork:** Technical lead (7-person team) for AI-assisted regional ATFM (Aug 2025 – now); team lead (3-person team) for Singapore–Italy AI4ATM project (Apr 2024 – now).
+- **Funding and grants:** Experience in national/agency programs (CAAS, NRF, A*STAR, Singapore, NSF China) and grant proposal writing (lead writer / technical coordinator roles listed below).
+- **Teaching and mentoring:** Teaching assistant experience; mentored 2 Ph.D. students, 3 M.Sc. students, and 5 undergraduate final-year projects; co-authored 10+ peer-reviewed publications with students.
+
 
 <span class='anchor' id='-news'></span>
 # 🔥 News

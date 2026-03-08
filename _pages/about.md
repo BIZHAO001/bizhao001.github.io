@@ -21,7 +21,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 
 My research centers on AI and optimization for safety-critical air transportation systems. The objective is to develop **human-centered AI** and **intelligent decision-support** methods for safer, more efficient, and more resilient AAM and ATM operations. My research interests include optimization under uncertainty, multi-agent systems, safe reinforcement learning, human–AI teaming, and large language models for safety-critical and autonomous trasportation systems. 
 
-*Research Summary*
+**Research Summary**
 - **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.
 - **Peer-reviewed publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **800+ citations** on Google Scholar.
 - **Leadership and teamwork:** Technical lead (7-person team) for AI-assisted regional ATFM (Aug 2025 – now); team lead (3-person team) for Singapore–Italy AI4ATM project (Apr 2024 – now).
@@ -42,13 +42,26 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 ## Recent Highlights
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">TRE 2024</span>
+    <img src="images/TRE_2025.png" alt="Stochastic route optimization for safe drone delivery">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;">Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations</h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Wei Dai, Kin Huat Low</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part E: Logistics and Transportation Review</em>, 192 (2024): 103717.</p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.tre.2024.103717">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>A two-stage stochastic optimization method for AAM risk management.</li>
+      <li>Flight approval and execution decisions are made jointly to mitigate dynamic ground risk.</li>
+    </ul>
+  </div>
+</div>
+
 **In-flight multi-aircraft trajectory replanning under dynamic thunderstorm cells using decentralized deep reinforcement learning.**  
 **Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli  
 *Advanced Engineering Informatics*, 65 (2025): 103157. DOI available.
-
-**Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations.**  
-**Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low  
-*Transportation Research Part E*, 192 (2024): 103717. DOI available.
 
 **Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time.**  
 **Bizhao Pang**, Kin Huat Low, Vu N. Duong  

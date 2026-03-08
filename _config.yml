@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bizhao Pang"
-description              : "Optimization, Safe Reinforcement Learning, and Human-Centered AI for Intelligent AAM & ATM"
+description              : "Optimization, Safe Reinforcement Learning, and Human-Centered AI for Intelligent AAM and ATM"
 url                      : "https://bizhao001.github.io"
 baseurl                  : ""   # Empty for user site at bizhao001.github.io
 repository               : "bizhao001.github.io"   # Must match: github.com/bizhao001/bizhao001.github.io

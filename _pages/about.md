@@ -19,7 +19,11 @@ redirect_from:
 
 I received my Ph.D. in Aerospace Engineering from **Nanyang Technological University** (NTU), Singapore. I am currently a Research Fellow at the Air Traffic Management Research Institute (ATMRI), NTU, where I previously worked as a Research Associate. Before that, I received my Master of Engineering in Air Traffic Management and Operations Research and my Bachelor of Engineering in Air Transportation from the Civil Aviation University of China (CAUC). Together, these background built a strong foundation in airport, airline, and air traffic control operations, mathematical modeling and optimization, which I now combine with AI for **next-generation ATM** and emerging **Advanced Air Mobility** systems.
 
-My research centers on AI and optimization for safety-critical air transportation systems. The objective is to develop **human-centered AI** and **intelligent decision-support** methods for safer, more efficient, and more resilient AAM and ATM operations. My research interests include optimization under uncertainty, multi-agent systems, safe reinforcement learning, human–AI teaming, and large language models for safety-critical and autonomous trasportation systems. 
+My research centers on AI and optimization for safety-critical air transportation systems with a focus on: 
+
+**(i) Safe and scalable low-altitude UAM and AAM planning and operations**
+**(ii) Human-centered AI for resilient ATM and regional ATFM**
+**(iii) AI-driven decision support and system-level intelligence for intelligent transportation systems**
 
 **Research Summary**
 - **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.
@@ -36,15 +40,15 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 - *2026.02*: &nbsp; **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from Air Lab Thales, MITRE Asia, A*STAR, and SUTD.
 - *2026.01*: &nbsp; **AAMAS 2026** — Full paper accepted for oral presentation on constrained multi-agent reinforcement learning for safe planning. Thanks to all co-authors for the collaboration.
-- *2025.11*: &nbsp; Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr. Fan. Looking forward to future collaborations.
+- *2025.11*: &nbsp; Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr. Flint Fan. Looking forward to future collaborations.
 - *2025.10*: &nbsp; Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece (oral presentation).
 - *2025.08*: &nbsp; Joined the **AI-assisted Regional ATFM** project as Technical Lead. Honoured to work with PI Prof. Luu Anh Tuan and collaborate with Prof. Thinh Pham.
 - *2025.08*: &nbsp; Hosted Prof. Eri Itoh (University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
-- *2025.05*: &nbsp; Met Mr. Dawei Yu, Founder and CEO of [ToBlue Aviation Digital](https://toblue.aviation/) (Fintech start-up) in New York City, USA — insightful discussions on aviation digitalisation.
-- *2025.05*: &nbsp; Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and warm hospitality.
+- *2025.05*: &nbsp; Met Mr. Dawei Yu, Founder and CEO of [ToBlue Aviation Digital](https://www.toblue.aero/) (Fintech start-up) in New York City, USA and had an insightful discussion on how aviation assets can be valued and managed through AI-driven digitalization.
+- *2025.05*: &nbsp; Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
 - *2024.04*: &nbsp; Joined the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with our international partners.
 - *2023.12*: &nbsp; Joined **ATMRI, NTU** as Research Fellow, working on human–AI hybrid Advanced Air Mobility.
-- *2023.10*: &nbsp; Successfully defended my Ph.D. thesis. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
+- *2023.10*: &nbsp; Successfully defended my **Ph.D. thesis**. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
@@ -57,7 +61,7 @@ My research centers on AI and optimization for safety-critical air transportatio
     <img src="images/BIZHAO/AAMAS2026.png" alt="MAF-Net for safe trajectory planning">
   </div>
   <div class="paper-box-text">
-    <h3 style="margin-top: 0;">[AI for ATM] Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning</h3>
+    <h3 style="margin-top: 0;"><strong>[AI for ATM]</strong> <span style="font-weight: normal;">Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning</span></h3>
     <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Mingcheng Zhang, Xinting Hu, Duc-Thinh Pham, Sameer Alam, Guglielmo Lulli</p>
     <p style="margin: 0.5em 0;"><em>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems: AAMAS 2026 (<strong>Oral</strong>)</em></p>
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.65109/MQDV9851">Paper</a></p>
@@ -73,9 +77,9 @@ My research centers on AI and optimization for safety-critical air transportatio
     <img src="images/BIZHAO/AEI2025.png" alt="Multi-aircraft trajectory planning under thunderstorms">
   </div>
   <div class="paper-box-text">
-    <h3 style="margin-top: 0;">[AI for ATM] A multi-aircraft co-operative trajectory planning model under dynamic thunderstorm cells using decentralized deep reinforcement learning</h3>
+    <h3 style="margin-top: 0;"><strong>[AI for ATM]</strong> <span style="font-weight: normal;">A multi-aircraft co-operative trajectory planning model under dynamic thunderstorm cells using decentralized deep reinforcement learning</span></h3>
     <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli</p>
-    <p style="margin: 0.5em 0;"><em>Advanced Engineering Informatics, 65 (2025): 103157.</em></p>
+    <p style="margin: 0.5em 0;"><em>Advanced Engineering Informatics</em></p>
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.aei.2025.103157">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>A framework for multi-aircraft trajectory planning under dynamic thunderstorms.</li>
@@ -91,9 +95,9 @@ My research centers on AI and optimization for safety-critical air transportatio
     <img src="images/BIZHAO/TRE_2024.png" alt="Stochastic route optimization for safe drone delivery">
   </div>
   <div class="paper-box-text">
-    <h3 style="margin-top: 0;">[Safe AAM] Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations</h3>
+    <h3 style="margin-top: 0;"><strong>[Safe AAM]</strong> <span style="font-weight: normal;">Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations</span></h3>
     <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Wei Dai, Kin Huat Low</p>
-    <p style="margin: 0.5em 0;"><em>Transportation Research Part E: Logistics and Transportation Review, 192 (2024): 103717.</em></p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part E: Logistics and Transportation Review</em></p>
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.tre.2024.103717">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>A two-stage stochastic optimization method for AAM risk management.</li>
@@ -108,9 +112,9 @@ My research centers on AI and optimization for safety-critical air transportatio
     <img src="images/BIZHAO/TRC2024.png" alt="Chance-constrained UAM traffic flow optimization">
   </div>
   <div class="paper-box-text">
-    <h3 style="margin-top: 0;">[Safe AAM] Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time</h3>
+    <h3 style="margin-top: 0;"><strong>[Safe AAM]</strong> <span style="font-weight: normal;">Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time</span></h3>
     <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Kin Huat Low, Vu N. Duong</p>
-    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies, 161 (2024): 104547.</em></p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em></p>
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2024.104547">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>A chance-constrained UTFM model is developed to optimize UAM traffic flow under trajectory uncertainty.</li>
@@ -127,9 +131,9 @@ My research centers on AI and optimization for safety-critical air transportatio
     <img src="images/BIZHAO/RESS2022.PNG" alt="UAV path optimization with third-party risk assessment">
   </div>
   <div class="paper-box-text">
-    <h3 style="margin-top: 0;">[Safe AAM] UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments</h3>
+    <h3 style="margin-top: 0;"><strong>[Safe AAM]</strong> <span style="font-weight: normal;">UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments</span></h3>
     <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Wei Dai, Kin Huat Low</p>
-    <p style="margin: 0.5em 0;"><em>Reliability Engineering &amp; System Safety, 2022: 108399.</em></p>
+    <p style="margin: 0.5em 0;"><em>Reliability Engineering &amp; System Safety</em></p>
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.ress.2022.108399">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>A third-party risk assessment framework incorporating fatality risk, property damage risk, and noise impact for safe and societally acceptable UAM operations in low-altitude urban airspace.</li>
@@ -143,9 +147,9 @@ My research centers on AI and optimization for safety-critical air transportatio
     <img src="images/BIZHAO/TRC2022.PNG" alt="Adaptive conflict resolution for multi-UAV 4D routes">
   </div>
   <div class="paper-box-text">
-    <h3 style="margin-top: 0;">[Safe AAM] Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm</h3>
+    <h3 style="margin-top: 0;"><strong>[Safe AAM]</strong> <span style="font-weight: normal;">Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm</span></h3>
     <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Kin Huat Low, Chen Lv</p>
-    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies, 139 (2022): 103666.</em></p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em></p>
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2022.103666">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>An adaptive UAV conflict resolution framework for 4D route optimization that integrates scheduling, speed adjustment, and rerouting strategies.</li>
@@ -160,23 +164,25 @@ My research centers on AI and optimization for safety-critical air transportatio
     <img src="images/BIZHAO/TRC2026.png" alt="U-Aerodrome airspace reconfiguration for UAM at aerodrome">
   </div>
   <div class="paper-box-text">
-    <h3 style="margin-top: 0;">[UAM-ATM Integration] U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of urban air mobility at aerodrome</h3>
+    <h3 style="margin-top: 0;"><strong>[UAM-ATM Integration]</strong> <span style="font-weight: normal;">U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of urban air mobility at aerodrome</span></h3>
     <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang* </strong>, Sameer Alam, Mir Feroskhan (*PhD mentor)</p>
-    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies, 184 (2026): 105506.</em></p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em></p>
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2025.105506">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>U-Aerodrome, a data-driven and risk-bounded airspace reconfiguration framework designed to support the safe and flexible integration of UAM operations near controlled aerodromes.</li>
+      <li>Probabilistic and risk-bounded framework to optimize spatiotemporal boundaries.<li>
+      <li>Handling Gaussian and non-Gaussian data distributions for robust safety assurance.<li>
     </ul>
   </div>
 </div>
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <span class="badge">RESS 2026</span>
+    <!-- <span class="badge">Work in 2026</span> -->
     <img src="images/BIZHAO/RESS2026.png" alt="U-SAFE trajectory planning for UAM at aerodrome">
   </div>
   <div class="paper-box-text">
-    <h3 style="margin-top: 0;">[UAM-ATM Integration] U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning</h3>
+    <h3 style="margin-top: 0;"><strong>[UAM-ATM Integration]</strong> <span style="font-weight: normal;">U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning</span></h3>
     <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang*</strong>, Sameer Alam, Mir Feroskhan (*PhD mentor)</p>
     <p style="margin: 0.5em 0;">Under 2nd review, 2026.</p>
     <ul style="margin: 0.5em 0;">
@@ -216,23 +222,6 @@ My research centers on AI and optimization for safety-critical air transportatio
 - **Bizhao Pang**, Mingcheng Zhang, Sameer Alam. LLM-Guided Multi-Agent Reinforcement Learning with Safety Constraints (2026), Working paper.
 - Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning (2026), Under 2nd review.
 
-<span class='anchor' id='-presentations-and-talks'></span>
-# 🎤 Selected Presentations and Talks
-
-- **Feb 2026** &nbsp;&nbsp; **Introduction and Demonstration of an AI-Assisted Regional ATFM Prototype**  
-  Singapore Airshow 2026, Singapore
-- **May 2025** &nbsp;&nbsp; **Multi-Agent Aircraft Trajectory Planning Using Decentralized MARL**  
-  University of Michigan, Ann Arbor, MI, USA
-- **May 2025** &nbsp;&nbsp; **Decentralized DRL for Cooperative Multi-Aircraft Trajectory Planning**  
-  AAMAS 2025, Detroit, MI, USA
-- **Sep 2023** &nbsp;&nbsp; **Population Density Estimation for Dynamic Ground-Risk Assessment of Drone Operations**  
-  IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023, Barcelona, Spain
-- **Dec 2022** &nbsp;&nbsp; **Scientific Paper Writing and Response to Reviewers' Comments**  
-  Civil Aviation University of China (CAUC), Tianjin, China
-- **Nov 2021** &nbsp;&nbsp; **Risk Modelling and Assessment for UAS Operations in Urban Environments**  
-  Cranfield University, Online
-- **Sep 2019** &nbsp;&nbsp; **UAS Operations and Industry Perspectives**  
-  ICAO UAS Industry Symposium 2019, Montreal, Canada
 
 <!-- <span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
@@ -259,27 +248,48 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 - *2023.12 – Present*, **Research Fellow**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
   - *AI-assisted Regional ATFM (Aug 2025 – Now)* — Tech Lead: Conceptualizing and developing a distributed AI-assisted ATFM system.  
-  - *AI4ATM (Apr 2024 – Now)* — Team Lead: Leading a cross-national team developing advanced AI models for resilient ATM under thunderstorms.  
+  - *AI4ATM (Apr 2024 – Now)* — Team Lead: Leading a cross-national team on advanced AI models for resilient ATM under thunderstorms.  
   - *UAM System Development (Dec 2023 – Apr 2025)* — Algorithm Scientist: Developed a safe and scalable AI-based UAM system for Singapore's highly urbanized airspace.
 - *2019.04 – 2020.08*, **Research Associate**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
   - *UTM System with AirMatrix Concept* — Team Lead: Developed a digital low-altitude urban airspace management system for UAM.  
-  - *Risk-based UAM Concept and Algorithm* — Algorithm Engineer: Developed risk-based concepts and planning algorithms for safe UAM operations.
+  - *Risk-based UAM Concept and Algorithm* — Developed risk-based concepts and planning algorithms for safe UAM operations.
 
 <span class='anchor' id='-research-projects'></span>
 # 🔬 Research Projects
 
 **AI for Resilient ATM and Cross-Border ATFM Systems**
-- *AI-Assisted Cross-Border Air Traffic Flow Management* (NRF, Singapore) Aug 2025 – Present — Technical Lead, AI Scientist (7 team members). Leading multidisciplinary research, coordinating with aviation authority and industry stakeholders.
-- *Singapore–Italy Collaborative Project: AI for Air Traffic Management (AI4ATM)* Apr 2024 – Present — Team Lead, AI Scientist (3 team members). Developing AI algorithms for multi-aircraft separation assurance, thunderstorm avoidance, and sequencing.
-- *Airspace and Air Traffic Flow Modeling and Optimization* (NSF, China) Sep 2016 – Mar 2019 — Data and Algorithm Engineer. Chinese Air Route Network Optimization; Terminal Airspace Optimization for Sustainable Aviation.
+- *AI-assisted Regional Air Traffic Flow Management* (NRF, Singapore). Aug 2025 – Present — Technical Lead, AI Scientist (7 team members). Leading multidisciplinary research, coordinating with aviation authority and industry stakeholders.
+- *Singapore–Italy Collaborative Project: AI for Air Traffic Management (AI4ATM)*. Apr 2024 – Present — Team Lead, AI Scientist (3 team members). Developing AI algorithms for multi-aircraft separation assurance, thunderstorm avoidance, and sequencing.
+- *Airspace and Air Traffic Flow Modeling and Optimization* (NSF, China). Sep 2016 – Mar 2019 — Data and Algorithm Engineer. Chinese Air Route Network Optimization; Terminal Airspace Optimization for Sustainable Aviation.
 
 **Low-Altitude UAM and AAM: Concepts, Research, and Development** (NRF, Singapore)
-- *Scalable and Robust UAM Scheduling and Disruption Recovery* Apr 2021 – Mar 2024 — Team Lead, AI Algorithm Researcher.
-- *Risk-based UAM Path Optimization Using Machine Learning* Jan 2022 – Mar 2024 — Team Lead, AI Algorithm Researcher.
-- *UTM Platform Development with AirMatrix Concept* Apr 2019 – Mar 2023 — Algorithm Engineer.
-- *UTM and ATM Integration in Low-Altitude Urban Airspace* Apr 2019 – Mar 2021 — Data Engineer.
+- *Scalable and Robust UAM Scheduling and Disruption Recovery*. Apr 2021 – Mar 2024 — Team Lead, AI Algorithm Researcher.
+- *Risk-based UAM Path Optimization Using Machine Learning*. Jan 2022 – Mar 2024 — Team Lead, AI Algorithm Researcher.
+- *UTM Platform Development with AirMatrix Concept*. Apr 2019 – Mar 2023 — Algorithm Engineer.
+- *UTM and ATM Integration in Low-Altitude Urban Airspace*. Apr 2019 – Mar 2021 — Data Engineer.
 
-<!-- <span class='anchor' id='-showcase'></span>
+<span class='anchor' id='-presentations-and-talks'></span>
+# 🎤 Selected Presentations and Talks
+
+- **Feb 2026** &nbsp;&nbsp; **Introduction and Demonstration of an AI-Assisted Regional ATFM Prototype**  
+  Singapore Airshow 2026, Singapore
+- **May 2025** &nbsp;&nbsp; **Multi-Agent Aircraft Trajectory Planning Using Decentralized MARL**  
+  University of Michigan, Ann Arbor, MI, USA
+- **May 2025** &nbsp;&nbsp; **Decentralized DRL for Cooperative Multi-Aircraft Trajectory Planning**  
+  AAMAS 2025, Detroit, MI, USA
+- **Sep 2023** &nbsp;&nbsp; **Population Density Estimation for Dynamic Ground-Risk Assessment of Drone Operations**  
+  IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023, Barcelona, Spain
+- **Dec 2022** &nbsp;&nbsp; **Scientific Paper Writing and Response to Reviewers' Comments**  
+  Civil Aviation University of China (CAUC), Tianjin, China
+- **Nov 2021** &nbsp;&nbsp; **Risk Modelling and Assessment for UAS Operations in Urban Environments**  
+  Cranfield University, Online
+- **Sep 2019** &nbsp;&nbsp; **UAS Operations and Industry Perspectives**  
+  ICAO UAS Industry Symposium 2019, Montreal, Canada
+
+<div style="display: none;">
+<!-- HIDDEN: Showcase and Gallery sections - remove the wrapper div to show again -->
+
+<span class='anchor' id='-showcase'></span>
 # 🎬 Showcase
 
 *This section is ready for you to add videos and figures to showcase your work. See instructions below.*
@@ -290,7 +300,6 @@ To add a **video** (e.g., from YouTube or a local file):
 <div class="showcase-item">
   <h4>Project Title</h4>
   <p>Brief description of the work.</p>
-  <!-- YouTube embed -->
   <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
   </div>
@@ -309,11 +318,6 @@ To add a **figure/image**:
 <div class="showcase-item" style="margin: 2em 0; padding: 1em; border: 1px solid #eee; border-radius: 8px;">
   <h4>UAM Traffic Management System</h4>
   <p>Safe and scalable AI-based UAM system for Singapore's urban airspace. Add your video or figure here.</p>
-  <!-- Uncomment and add your YouTube embed:
-  <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
-  </div>
-  -->
 </div>
 
 *To add more showcase items: paste the HTML/Markdown blocks above and replace with your video IDs or image paths. Save your videos in `images/` or link to YouTube/Vimeo.*
@@ -334,7 +338,6 @@ Photos from research, teaching, and daily life.
       <img src="images/gallery/research2.jpg" alt="Research photo">
       <figcaption>Add caption for your photo</figcaption>
     </figure>
-    <!-- Add more images: save in images/gallery/ and add <figure class="gallery-item">...</figure> -->
   </div>
 </div>
 
@@ -345,7 +348,6 @@ Photos from research, teaching, and daily life.
       <img src="images/gallery/teaching1.jpg" alt="Teaching photo">
       <figcaption>Add caption for your photo</figcaption>
     </figure>
-    <!-- Add more images -->
   </div>
 </div>
 
@@ -356,8 +358,9 @@ Photos from research, teaching, and daily life.
       <img src="images/gallery/life1.jpg" alt="Daily life photo">
       <figcaption>Add caption for your photo</figcaption>
     </figure>
-    <!-- Add more images -->
   </div>
 </div>
 
-*To add your photos: save images in `images/gallery/` and update the `src` paths and `figcaption` text above. Supported formats: jpg, png, webp.* -->
+*To add your photos: save images in `images/gallery/` and update the `src` paths and `figcaption` text above. Supported formats: jpg, png, webp.*
+
+</div>

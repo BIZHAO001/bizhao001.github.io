@@ -17,13 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. in Aerospace Engineering from **Nanyang Technological University** (NTU), Singapore. I am currently a Research Fellow at the Air Traffic Management Research Institute (ATMRI), NTU, where I previously worked as a Research Associate. Before that, I received my Master of Engineering in Air Traffic Management and Operations Research and my Bachelor of Engineering in Air Transportation from the Civil Aviation University of China (CAUC). Together, these background built a strong foundation in airport, airline, and air traffic control operations, mathematical modeling and optimization, which I now combine with AI for **next-generation ATM** and emerging **Advanced Air Mobility** systems.
+I received my Ph.D. in Aerospace Engineering from **Nanyang Technological University** (NTU), Singapore. I am currently a Research Fellow at the Air Traffic Management Research Institute (ATMRI), NTU. I received my Master of Engineering in Air Traffic Management and Operations Research and my Bachelor of Engineering in Air Transportation from the Civil Aviation University of China (CAUC). These background built a strong foundation in airport, airline, and air traffic control operations, mathematical modeling and optimization, which I now combine with AI for **Next-Generation ATM** and emerging **Advanced Air Mobility** systems.
 
-My research centers on AI and optimization for safety-critical air transportation systems with a focus on: 
-
-**(i) Safe and scalable low-altitude UAM and AAM planning and operations**
-**(ii) Human-centered AI for resilient ATM and regional ATFM**
-**(iii) AI-driven decision support and system-level intelligence for intelligent transportation systems**
+My research centers on AI and optimization for safety-critical air transportation systems with a focus on: **(i) Safe and scalable low-altitude UAM and AAM planning and operations**, **(ii) Human-centered AI for resilient ATM and regional ATFM**, **(iii) AI-driven decision support and system-level intelligence for intelligent transportation systems**.
 
 **Research Summary**
 - **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.
@@ -36,18 +32,16 @@ My research centers on AI and optimization for safety-critical air transportatio
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
-*Updates on collaborations with academia and industry.*
-
-- *2026.02*: &nbsp; **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from Air Lab Thales, MITRE Asia, A*STAR, and SUTD.
+- *2026.02*: &nbsp; **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from AIR Lab, MITRE Asia, A*STAR, and SUTD.
 - *2026.01*: &nbsp; **AAMAS 2026** — Full paper accepted for oral presentation on constrained multi-agent reinforcement learning for safe planning. Thanks to all co-authors for the collaboration.
 - *2025.11*: &nbsp; Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr. Flint Fan. Looking forward to future collaborations.
-- *2025.10*: &nbsp; Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece (oral presentation).
-- *2025.08*: &nbsp; Joined the **AI-assisted Regional ATFM** project as Technical Lead. Honoured to work with PI Prof. Luu Anh Tuan and collaborate with Prof. Thinh Pham.
-- *2025.08*: &nbsp; Hosted Prof. Eri Itoh (University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
+- *2025.10*: &nbsp; Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece.
+- *2025.08*: &nbsp; Joined the **AI-assisted Regional ATFM** project as Technical Lead. Honoured to work with PI Prof. Luu Anh Tuan.
+- *2025.08*: &nbsp; Hosted Prof. Eri Itoh (The University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
 - *2025.05*: &nbsp; Met Mr. Dawei Yu, Founder and CEO of [ToBlue Aviation Digital](https://www.toblue.aero/) (Fintech start-up) in New York City, USA and had an insightful discussion on how aviation assets can be valued and managed through AI-driven digitalization.
 - *2025.05*: &nbsp; Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
-- *2024.04*: &nbsp; Joined the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with our international partners.
-- *2023.12*: &nbsp; Joined **ATMRI, NTU** as Research Fellow, working on human–AI hybrid Advanced Air Mobility.
+- *2024.04*: &nbsp; Joined the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with Prof. Guglielmo Lulli and his team from Lancaster University, UK.
+- *2023.12*: &nbsp; Joined **ATMRI, NTU** as Research Fellow to work on human–AI teaming for Advanced Air Mobility.
 - *2023.10*: &nbsp; Successfully defended my **Ph.D. thesis**. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
 
 <span class='anchor' id='-publications'></span>
@@ -170,15 +164,15 @@ My research centers on AI and optimization for safety-critical air transportatio
     <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2025.105506">Paper</a></p>
     <ul style="margin: 0.5em 0;">
       <li>U-Aerodrome, a data-driven and risk-bounded airspace reconfiguration framework designed to support the safe and flexible integration of UAM operations near controlled aerodromes.</li>
-      <li>Probabilistic and risk-bounded framework to optimize spatiotemporal boundaries.<li>
-      <li>Handling Gaussian and non-Gaussian data distributions for robust safety assurance.<li>
+      <li>Probabilistic and risk-bounded framework to optimize spatiotemporal boundaries.</li>
+      <li>Handling Gaussian and non-Gaussian data distributions for robust safety assurance.</li>
     </ul>
   </div>
 </div>
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <!-- <span class="badge">Work in 2026</span> -->
+    <span class="badge">Work in 2026</span>
     <img src="images/BIZHAO/RESS2026.png" alt="U-SAFE trajectory planning for UAM at aerodrome">
   </div>
   <div class="paper-box-text">

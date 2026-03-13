@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. in Aerospace Engineering from **Nanyang Technological University** (NTU), Singapore. I am currently a Research Fellow at the Air Traffic Management Research Institute (ATMRI), NTU. I received my Master of Engineering in Air Traffic Management and Operations Research and my Bachelor of Engineering in Air Transportation from the Civil Aviation University of China (CAUC). These background built a strong foundation in airport, airline, and air traffic control operations, mathematical modeling and optimization, which I now combine with AI for **Next-Generation ATM** and emerging **Advanced Air Mobility** systems.
-
-My research centers on AI and optimization for safety-critical air transportation systems with a focus on: **(i) Safe and scalable low-altitude UAM and AAM planning and operations**, **(ii) Human-centered AI for resilient ATM and regional ATFM**, **(iii) AI-driven decision support and system-level intelligence for intelligent transportation systems**.
+I received my Ph.D. in Aerospace Engineering from **Nanyang Technological University** (NTU), Singapore. I am currently a Research Fellow at the Air Traffic Management Research Institute (ATMRI), NTU. My research centers on AI and optimization for safety-critical air transportation systems with a focus on: **(i) Safe and scalable low-altitude UAM and AAM planning and operations**, **(ii) Human-centered AI for resilient ATM and regional ATFM**, **(iii) AI-driven decision support and system-level intelligence for intelligent transportation systems**.
 
 **Research Summary**
 - **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.

@@ -36,7 +36,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 - *2025.10*: &nbsp; Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece.
 - *2025.08*: &nbsp; Appointed as Technical Lead for the **AI-assisted Regional ATFM** project. Honoured to work with PI Prof. Luu Anh Tuan.
 - *2025.08*: &nbsp; Hosted Prof. Eri Itoh (The University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
-- *2025.05*: &nbsp; Met with the Founder and CEO of [ToBlue Aviation Digital](https://www.toblue.aero/) (Fintech start-up) in New York City, USA and had an insightful discussion on how aviation assets can be valued and managed through AI-driven digitalization.
+- *2025.05*: &nbsp; Had an insightful talk session with my friend Mr. Dawei Yu, Founder and CEO of [ToBlue Aviation Digital](https://www.toblue.aero/) (Fintech start-up) in New York City, USA, on potential collaboration in AI-driven digitalization for aviation asset valuation and management.
 - *2025.05*: &nbsp; Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
 - *2024.04*: &nbsp; Appointed as Team Lead for the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with Prof. Guglielmo Lulli and his team from Lancaster University, UK.
 - *2023.12*: &nbsp; Joined **ATMRI, NTU** as Research Fellow to work on human–AI teaming for Advanced Air Mobility.

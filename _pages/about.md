@@ -17,13 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. in Aerospace Engineering from **Nanyang Technological University** (NTU), Singapore. I am currently a Research Fellow at the Air Traffic Management Research Institute (ATMRI), NTU. I received my Master of Engineering in Air Traffic Management and Operations Research and my Bachelor of Engineering in Air Transportation from the Civil Aviation University of China (CAUC). These background built a strong foundation in airport, airline, and air traffic control operations, mathematical modeling and optimization, which I now combine with AI for **Next-Generation ATM** and emerging **Advanced Air Mobility** systems.
-
-My research centers on AI and optimization for safety-critical air transportation systems with a focus on: **(i) Safe and scalable low-altitude UAM and AAM planning and operations**, **(ii) Human-centered AI for resilient ATM and regional ATFM**, **(iii) AI-driven decision support and system-level intelligence for intelligent transportation systems**.
+I received my Ph.D. in Aerospace Engineering from **Nanyang Technological University** (NTU), Singapore. I am currently a Research Fellow at the Air Traffic Management Research Institute (ATMRI), NTU. My research centers on AI and optimization for safety-critical air transportation systems with a focus on: **(i) Safe and scalable low-altitude UAM and AAM planning and operations**, **(ii) Human-centered AI for resilient ATM and regional ATFM**, **(iii) AI-driven decision support for intelligent transportation systems**.
 
 **Research Summary**
 - **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.
-- **Publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **850+ citations** on Google Scholar.
+- **Publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **800+ citations** on Google Scholar.
 - **Leadership and teamwork:** Technical lead (7-person team) for AI-assisted regional ATFM (Aug 2025 – now); team lead (3-person team) for Singapore–Italy AI4ATM project (Apr 2024 – now).
 - **Funding and grants:** Experience in national/agency programs (CAAS, NRF, A*STAR, Singapore, NSF China) and grant proposal writing (lead writer / technical coordinator roles listed below).
 - **Teaching and mentoring:** Teaching assistant experience; mentored 2 Ph.D. students, 3 M.Sc. students, and 5 undergraduate final-year projects; co-authored 10+ peer-reviewed publications with students.
@@ -34,15 +32,15 @@ My research centers on AI and optimization for safety-critical air transportatio
 
 - *2026.02*: &nbsp; **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from AIR Lab, MITRE Asia, A*STAR, and SUTD.
 - *2026.01*: &nbsp; **AAMAS 2026** — Full paper accepted for oral presentation on constrained multi-agent reinforcement learning for safe planning. Thanks to all co-authors for the collaboration.
-- *2025.11*: &nbsp; Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr. Flint Fan. Looking forward to future collaborations.
+- *2025.11*: &nbsp; Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr Fan. Looking forward to future collaborations.
 - *2025.10*: &nbsp; Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece.
 - *2025.08*: &nbsp; Appointed as Technical Lead for the **AI-assisted Regional ATFM** project. Honoured to work with PI Prof. Luu Anh Tuan.
 - *2025.08*: &nbsp; Hosted Prof. Eri Itoh (The University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
-- *2025.05*: &nbsp; Met Mr. Dawei Yu, Founder and CEO of [ToBlue Aviation Digital](https://www.toblue.aero/) (Fintech start-up) in New York City, USA and had an insightful discussion on how aviation assets can be valued and managed through AI-driven digitalization.
+- *2025.05*: &nbsp; Had an insightful talk session with Mr. Dawei Yu, Founder and CEO of [ToBlue Aviation Digital](https://www.toblue.aero/) (Fintech start-up) in New York City, USA, on potential collaboration in AI-driven digitalization for aviation asset valuation and management.
 - *2025.05*: &nbsp; Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
 - *2024.04*: &nbsp; Appointed as Team Lead for the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with Prof. Guglielmo Lulli and his team from Lancaster University, UK.
 - *2023.12*: &nbsp; Joined **ATMRI, NTU** as Research Fellow to work on human–AI teaming for Advanced Air Mobility.
-- *2023.10*: &nbsp; Successfully defended my **Ph.D. thesis**. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
+- *2023.10*: &nbsp; Successfully defended my **Ph.D. thesis** on AI for safe and efficient Urban Air Mobility. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
@@ -275,7 +273,7 @@ My research centers on AI and optimization for safety-critical air transportatio
   IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023, Barcelona, Spain
 - **Dec 2022** &nbsp;&nbsp; **Scientific Paper Writing and Response to Reviewers' Comments**  
   Civil Aviation University of China (CAUC), Tianjin, China
-- **Nov 2021** &nbsp;&nbsp; **Risk Modelling and Assessment for UAS Operations in Urban Environments**  
+- **Nov 2021** &nbsp;&nbsp; **Risk Modelling and Assessment for UAM Operations in Urban Environments**  
   Cranfield University, Online
 - **Sep 2019** &nbsp;&nbsp; **UAS Operations and Industry Perspectives**  
   ICAO UAS Industry Symposium 2019, Montreal, Canada

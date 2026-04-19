@@ -234,8 +234,8 @@ My research centers on AI and optimization for safety-critical air transportatio
 # 📖 Education
 
 - *2020.08 – 2023.10*, Doctor of Philosophy (AI and Intelligent Transportation), Nanyang Technological University, Singapore  
-- *2016.08 – 2019.03*, Master of Engineering (ATM and Operations Research), Civil Aviation University of China, Tianjin, China  
-- *2012.08 – 2016.06*, Bachelor of Engineering (Air Transportation), Civil Aviation University of China, Tianjin, China  
+- *2016.09 – 2019.06*, Master of Engineering (ATM and Operations Research), Civil Aviation University of China, Tianjin, China  
+- *2012.09 – 2016.06*, Bachelor of Engineering (Air Transportation), Civil Aviation University of China, Tianjin, China  
 
 <span class='anchor' id='-work-experience'></span>
 # 💼 Work Experience
@@ -244,7 +244,7 @@ My research centers on AI and optimization for safety-critical air transportatio
   - *AI-assisted Regional ATFM (Aug 2025 – Now)* — Tech Lead: Conceptualizing and developing a distributed AI-assisted ATFM system.  
   - *AI4ATM (Apr 2024 – Now)* — Team Lead: Leading a cross-national team on advanced AI models for resilient ATM under thunderstorms.  
   - *UAM System Development (Dec 2023 – Apr 2025)* — Algorithm Scientist: Developed a safe and scalable AI-based UAM system for Singapore's highly urbanized airspace.
-- *2019.04 – 2020.08*, **Research Associate**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
+- *2019.08 – 2020.08*, **Research Associate**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
   - *UTM System with AirMatrix Concept* — Team Lead: Developed a digital low-altitude urban airspace management system for UAM.  
   - *Risk-based UAM Concept and Algorithm* — Developed risk-based concepts and planning algorithms for safe UAM operations.
 

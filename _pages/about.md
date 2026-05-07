@@ -21,8 +21,8 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 
 **Research Summary**
 - **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.
-- **Publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **800+ citations** on Google Scholar.
-- **Leadership and teamwork:** Technical lead (7-person team) for AI-assisted regional ATFM (Aug 2025 – now); team lead (3-person team) for Singapore–Italy AI4ATM project (Apr 2024 – now).
+- **Publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **900+ citations** on Google Scholar.
+- **Leadership and teamwork:** Team Lead (18-person team) for CAAS FlexMAN project (Apr 2026 - Now); Technical lead (7-person team) for AI-assisted regional ATFM (Aug 2025 – Mar 2026); team lead (3-person team) for Singapore–Italy AI4ATM project (Apr 2024 – Mar 2026).
 - **Funding and grants:** Experience in national/agency programs (CAAS, NRF, A*STAR, Singapore, NSF China) and grant proposal writing (lead writer / technical coordinator roles listed below).
 - **Teaching and mentoring:** Teaching assistant experience; mentored 2 Ph.D. students, 3 M.Sc. students, and 5 undergraduate final-year projects; co-authored 10+ peer-reviewed publications with students.
 
@@ -186,6 +186,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 </div>
 
 ## Selected Journal Papers
+<sup>* Corresponding author</sup>
 
 - **Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli. In-flight multi-aircraft trajectory replanning under dynamic thunderstorm cells using decentralized deep reinforcement learning. *Advanced Engineering Informatics*, 65 (2025): 103157. [DOI](https://doi.org/10.1016/j.aei.2025.103157).
 - **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations. *Transportation Research Part E*, 192 (2024): 103717. [DOI](https://doi.org/10.1016/j.tre.2024.103717).
@@ -199,6 +200,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 - Yu Wu, Kin Huat Low, **Bizhao Pang**, Qingyu Tan. Swarm-based 4D path planning for drone operations in urban environments. *IEEE Transactions on Vehicular Technology*, 70(8), 7464–7479, 2021. [DOI](https://doi.org/10.1109/TVT.2021.3093318).
 
 ## Selected Conference Papers
+<sup>* Corresponding author</sup>
 
 - **Bizhao Pang**, Mingcheng Zhang, Xinting Hu, Thinh Pham, Sameer Alam, Guglielmo Lulli. Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning. *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)*, Paphos, Cyprus, May 25–29, 2026. **(Oral)**
 - **Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli. Decentralized Deep Reinforcement Learning for Cooperative Multi-Agent Flight Trajectory Planning in Adverse Weather. *24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)*, Detroit, Michigan, USA, May 19–23, 2025.
@@ -209,12 +211,18 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 - **Bizhao Pang**, Ng Ee Meng, Kin Huat Low. UAV trajectory estimation and deviation analysis for contingency management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
 - **Bizhao Pang**, Qingyu Tan, Kin Huat Low. A risk model based traffic network for adaptive urban airspace management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
 - **Bizhao Pang**, Ng Ee Meng, Kin Huat Low. Contingency management of urban UTM based on airspace contexts. *ICAO UAS Industry Symposium 2019*, Montreal, Canada.
+- Mingcheng Zhang, **Bizhao Pang***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Scalable Multi-Agent Reinforcement Learning for Decentralized UAM Deconfliction Considering Downstream Impact. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026*, Naples, Italy, 15–18 September 2026. Accepted. 
+- Yixi Zeng, Chao Deng, **Bizhao Pang***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Data-Driven Predict-then-Optimize for Demand-Capacity Balancing with Uncertain Aircraft Taxiing Time. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026*, Naples, Italy, 15–18 September 2026. Accepted.
 
-## Forthcoming Publications
+
+
+
+
+<!-- ## Forthcoming Publications
 
 - **Bizhao Pang**, Mingcheng Zhang, Xinting Hu, Sameer Alam, Guglielmo Lulli. Constrained Multi-Agent Reinforcement Learning with Multi-Head Action Filtering for Safe Aircraft Trajectory Planning (2026), Under 2nd review.
 - **Bizhao Pang**, Mingcheng Zhang, Sameer Alam. LLM-Guided Multi-Agent Reinforcement Learning with Safety Constraints (2026), Working paper.
-- Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning (2026), Under 2nd review.
+- Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning (2026), Under 2nd review. -->
 
 
 <!-- <span class='anchor' id='-honors-and-awards'></span>

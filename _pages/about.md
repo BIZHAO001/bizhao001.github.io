@@ -30,6 +30,8 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
+- *2026.05*: &nbsp; Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
+- *2026.04*: &nbsp; I was appointed as *Team Lead* for the FlexMAN project, aiming to foster **human–AI hybrid automation** for NextGen Air Traffic Management systems.
 - *2026.02*: &nbsp; **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from AIR Lab, MITRE Asia, A*STAR, and SUTD.
 - *2026.01*: &nbsp; **AAMAS 2026** — Full paper accepted for oral presentation on constrained multi-agent reinforcement learning for safe planning. Thanks to all co-authors for the collaboration.
 - *2025.11*: &nbsp; Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr Fan. Looking forward to future collaborations.

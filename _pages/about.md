@@ -22,7 +22,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 **Research Summary**
 - **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.
 - **Publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **900+ citations** on Google Scholar.
-- **Leadership and teamwork:** Team Lead (18-person team) for CAAS FlexMAN project (Apr 2026 - Now); Technical lead (7-person team) for AI-assisted regional ATFM (Aug 2025 – Mar 2026); team lead (3-person team) for Singapore–Italy AI4ATM project (Apr 2024 – Mar 2026).
+- **Leadership and teamwork:** Team Lead (16-person team) for CAAS FlexMAN project (Apr 2026 - Now); Technical lead (7-person team) for AI-assisted regional ATFM (Aug 2025 – Mar 2026); team lead (3-person team) for Singapore–Italy AI4ATM project (Apr 2024 – Mar 2026).
 - **Funding and grants:** Experience in national/agency programs (CAAS, NRF, A*STAR, Singapore, NSF China) and grant proposal writing (lead writer / technical coordinator roles listed below).
 - **Teaching and mentoring:** Teaching assistant experience; mentored 2 Ph.D. students, 3 M.Sc. students, and 5 undergraduate final-year projects; co-authored 10+ peer-reviewed publications with students.
 
@@ -211,8 +211,8 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 - **Bizhao Pang**, Ng Ee Meng, Kin Huat Low. UAV trajectory estimation and deviation analysis for contingency management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
 - **Bizhao Pang**, Qingyu Tan, Kin Huat Low. A risk model based traffic network for adaptive urban airspace management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
 - **Bizhao Pang**, Ng Ee Meng, Kin Huat Low. Contingency management of urban UTM based on airspace contexts. *ICAO UAS Industry Symposium 2019*, Montreal, Canada.
-- Mingcheng Zhang, **Bizhao Pang***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Scalable Multi-Agent Reinforcement Learning for Decentralized UAM Deconfliction Considering Downstream Impact. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026*, Naples, Italy, 15–18 September 2026. Accepted. 
-- Yixi Zeng, Chao Deng, **Bizhao Pang***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Data-Driven Predict-then-Optimize for Demand-Capacity Balancing with Uncertain Aircraft Taxiing Time. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026*, Naples, Italy, 15–18 September 2026. Accepted.
+- Mingcheng Zhang, **Bizhao Pang\***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Scalable Multi-Agent Reinforcement Learning for Decentralized UAM Deconfliction Considering Downstream Impact. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026*, Naples, Italy, 15–18 September 2026. Accepted. 
+- Yixi Zeng, Chao Deng, **Bizhao Pang\***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Data-Driven Predict-then-Optimize for Demand-Capacity Balancing with Uncertain Aircraft Taxiing Time. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026*, Naples, Italy, 15–18 September 2026. Accepted.
 
 
 
@@ -249,9 +249,10 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 # 💼 Work Experience
 
 - *2023.12 – Present*, **Research Fellow**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
-  - *AI-assisted Regional ATFM (Aug 2025 – Now)* — Tech Lead: Conceptualizing and developing a distributed AI-assisted ATFM system.  
-  - *AI4ATM (Apr 2024 – Now)* — Team Lead: Leading a cross-national team on advanced AI models for resilient ATM under thunderstorms.  
-  - *UAM System Development (Dec 2023 – Apr 2025)* — Algorithm Scientist: Developed a safe and scalable AI-based UAM system for Singapore's highly urbanized airspace.
+  - *Flexible Extended Arrival Management (FlexMAN) (Apr 2026 – Present)* — Team Lead: Developing human-AI hybrid automation for NextGen Air Traffic Management systems.  
+  - *AI-assisted Regional ATFM (Aug 2025 – Mar 2026)* — Tech Lead: Conceptualizing and developing a distributed AI-assisted cross-border ATFM system for ASEAN.  
+  - *AI4ATM (Apr 2024 – Mar 2026)* — Team Lead: Leading a cross-national team developing advanced AI models for resilient ATM under thunderstorms.  
+  - *UAM System Development (Dec 2023 – Apr 2024)* — Algorithm Scientist: Developed a safe and scalable AI-based UAM system for Singapore's highly urbanized airspace.
 - *2019.08 – 2020.08*, **Research Associate**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
   - *UTM System with AirMatrix Concept* — Team Lead: Developed a digital low-altitude urban airspace management system for UAM.  
   - *Risk-based UAM Concept and Algorithm* — Developed risk-based concepts and planning algorithms for safe UAM operations.

@@ -58,7 +58,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
     <h3 style="margin-top: 0;"><strong>[AI for ATM]</strong> <span style="font-weight: normal;">Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning</span></h3>
     <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Mingcheng Zhang, Xinting Hu, Duc-Thinh Pham, Sameer Alam, Guglielmo Lulli</p>
     <p style="margin: 0.5em 0;"><em>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</em></p>
-    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.65109/MQDV9851">Paper</a></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.65109/MQDV9851">Paper</a> | <a href="https://www.youtube.com/watch?v=l5eEwZ6mpqc&t=12s">Video</a></p>
     <ul style="margin: 0.5em 0;">
       <li>MAF-Net: A multi-head action filter network integrated with decentralized MARL to enable safe and scalable multi-agent planning under uncertainty.</li>
     </ul>

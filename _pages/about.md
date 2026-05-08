@@ -38,7 +38,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 - *2025.10*: &nbsp; Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece.
 - *2025.08*: &nbsp; Appointed as Technical Lead for the **AI-assisted Regional ATFM** project. Honoured to work with PI Prof. Luu Anh Tuan.
 - *2025.08*: &nbsp; Hosted Prof. Eri Itoh (The University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
-- *2025.05*: &nbsp; Had an insightful talk session with Mr. Dawei Yu, Founder and CEO of [ToBlue Aviation Digital](https://www.toblue.aero/) (Fintech start-up) in New York City, USA, on potential collaboration in AI-driven digitalization for aviation asset valuation and management.
+- *2025.05*: &nbsp; Had an insightful talk session with Mr. Yu, Founder and CEO of ToBlue Aviation Digital (Fintech start-up) in New York City, USA, on potential collaboration in AI-driven digitalization for aviation asset valuation and management.
 - *2025.05*: &nbsp; Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
 - *2024.04*: &nbsp; Appointed as Team Lead for the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with Prof. Guglielmo Lulli and his team from Lancaster University, UK.
 - *2023.12*: &nbsp; Joined **ATMRI, NTU** as Research Fellow to work on human–AI teaming for Advanced Air Mobility.
@@ -177,7 +177,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
   </div>
   <div class="paper-box-text">
     <h3 style="margin-top: 0;"><strong>[UAM-ATM Integration]</strong> <span style="font-weight: normal;">U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning</span></h3>
-    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang*</strong>, Sameer Alam, Mir Feroskhan (*PhD mentor)</p>
+    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang</strong>, Sameer Alam, Mir Feroskhan </p>
     <p style="margin: 0.5em 0;">Under 2nd review, 2026.</p>
     <ul style="margin: 0.5em 0;">
       <li>An integrated trajectory planning framework that combines proactive risk-based planning with reactive inflight conflict resolution near aerodromes.</li>
@@ -254,7 +254,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
   - *AI4ATM (Apr 2024 – Mar 2026)* — Team Lead: Leading a cross-national team developing advanced AI models for resilient ATM under thunderstorms.  
   - *UAM System Development (Dec 2023 – Apr 2024)* — Algorithm Scientist: Developed a safe and scalable AI-based UAM system for Singapore's highly urbanized airspace.
 - *2019.08 – 2020.08*, **Research Associate**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
-  - *UTM System with AirMatrix Concept* — Team Lead: Developed a digital low-altitude urban airspace management system for UAM.  
+  - *UTM System with AirMatrix Concept* — Developed a digital low-altitude urban airspace management system for UAM.  
   - *Risk-based UAM Concept and Algorithm* — Developed risk-based concepts and planning algorithms for safe UAM operations.
 
 <span class='anchor' id='-research-projects'></span>

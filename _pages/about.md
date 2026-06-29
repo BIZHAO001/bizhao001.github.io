@@ -30,6 +30,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
+- *2026.06*: &nbsp; Call for Papers is open for the first edition of [**Aviation Innovation Conference for the Asia-Pacific (AICAP) 2027**](https://event.ntu.edu.sg/AICAP-2027). Paper submissions, industry exhibitions, and technology demonstrations are very welcome.
 - *2026.05*: &nbsp; Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
 - *2026.04*: &nbsp; I was appointed as *Team Lead* for the FlexMAN project, aiming to foster **human–AI hybrid automation** for NextGen Air Traffic Management systems.
 - *2026.02*: &nbsp; **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from AIR Lab, MITRE Asia, A*STAR, and SUTD.
@@ -42,7 +43,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 - *2025.05*: &nbsp; Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
 - *2024.04*: &nbsp; Appointed as Team Lead for the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with Prof. Guglielmo Lulli and his team from Lancaster University, UK.
 - *2023.12*: &nbsp; Joined **ATMRI, NTU** as Research Fellow to work on human–AI teaming for Advanced Air Mobility.
-- *2023.10*: &nbsp; Successfully defended my **Ph.D. thesis** on AI for safe and efficient Urban Air Mobility. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
+- *2023.09*: &nbsp; Successfully defended my **Ph.D. thesis** on AI for safe and efficient Urban Air Mobility. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications
@@ -211,11 +212,8 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 - **Bizhao Pang**, Ng Ee Meng, Kin Huat Low. UAV trajectory estimation and deviation analysis for contingency management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
 - **Bizhao Pang**, Qingyu Tan, Kin Huat Low. A risk model based traffic network for adaptive urban airspace management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
 - **Bizhao Pang**, Ng Ee Meng, Kin Huat Low. Contingency management of urban UTM based on airspace contexts. *ICAO UAS Industry Symposium 2019*, Montreal, Canada.
-- Mingcheng Zhang, **Bizhao Pang\***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Scalable Multi-Agent Reinforcement Learning for Decentralized UAM Deconfliction Considering Downstream Impact. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026*, Naples, Italy, 15–18 September 2026. Accepted. 
-- Yixi Zeng, Chao Deng, **Bizhao Pang\***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Data-Driven Predict-then-Optimize for Demand-Capacity Balancing with Uncertain Aircraft Taxiing Time. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2026*, Naples, Italy, 15–18 September 2026. Accepted.
-
-
-
+- Hu, Xinting, Yu Wu, and **Bizhao Pang\***. Path planning for drone delivery in dense building environments. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2023*, Bilbao, Spain, 24-28 September, 2023.
+- Mingcheng Zhang, **Bizhao Pang\***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Scalable Multi-Agent Reinforcement Learning for Decentralized UAM Deconfliction Considering Downstream Impact. *IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)*, Naples, Italy, 15–18 September, 2026. Accepted. 
 
 
 <!-- ## Forthcoming Publications
@@ -241,7 +239,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 <span class='anchor' id='-education'></span>
 # 📖 Education
 
-- *2020.08 – 2023.10*, Doctor of Philosophy (AI and Intelligent Transportation), Nanyang Technological University, Singapore  
+- *2020.08 – 2023.09*, Doctor of Philosophy (AI and Intelligent Transportation), Nanyang Technological University, Singapore  
 - *2016.09 – 2019.06*, Master of Engineering (ATM and Operations Research), Civil Aviation University of China, Tianjin, China  
 - *2012.09 – 2016.06*, Bachelor of Engineering (Air Transportation), Civil Aviation University of China, Tianjin, China  
 

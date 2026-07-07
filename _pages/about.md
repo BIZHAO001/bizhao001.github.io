@@ -21,7 +21,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 
 **Research Summary**
 - **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.
-- **Publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **900+ citations** on Google Scholar.
+- **Publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **1000+ citations** on Google Scholar.
 - **Leadership and teamwork:** Team Lead (16-person team) for CAAS FlexMAN project (Apr 2026 - Now); Technical lead (7-person team) for AI-assisted regional ATFM (Aug 2025 – Mar 2026); team lead (3-person team) for Singapore–Italy AI4ATM project (Apr 2024 – Mar 2026).
 - **Funding and grants:** Experience in national/agency programs (CAAS, NRF, A*STAR, Singapore, NSF China) and grant proposal writing (lead writer / technical coordinator roles listed below).
 - **Teaching and mentoring:** Teaching assistant experience; mentored 2 Ph.D. students, 3 M.Sc. students, and 5 undergraduate final-year projects; co-authored 10+ peer-reviewed publications with students.

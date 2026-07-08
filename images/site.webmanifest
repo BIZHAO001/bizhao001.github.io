@@ -3,9 +3,9 @@
   "short_name": "Bizhao Pang",
   "icons": [
     {
-      "src": "/images/bizhao-pang1.png",
+      "src": "/images/bizhao-pang1.JPG",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/jpeg",
       "purpose": "any"
     }
   ],

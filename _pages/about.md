@@ -17,19 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. in Aerospace Engineering from **Nanyang Technological University** (NTU), Singapore. I am currently a Research Fellow at the Air Traffic Management Research Institute (ATMRI), NTU. My research centers on AI and optimization for safety-critical air transportation systems with a focus on: **(i) Safe and scalable low-altitude UAM and AAM planning and operations**, **(ii) Human-centered AI for resilient ATM and regional ATFM**, **(iii) AI-driven decision support for intelligent transportation systems**.
+## Hi, welcome!
 
-**Research Summary**
-- **Systems and stakeholders:** Contributed to deployable prototypes for low-altitude UAM traffic management, resilient ATM decision support under thunderstorms, and an ongoing AI-Assisted Regional ATFM system.
-- **Publications:** 30+ top journal and conference papers (**15 first authored**), including *Transportation Research Part C/E*, *Reliability Engineering & System Safety*, *Advanced Engineering Informatics*, IEEE T-ITS/TVT; AAMAS 2026 (oral). **1000+ citations** on Google Scholar.
-- **Leadership and teamwork:** Team Lead (16-person team) for CAAS FlexMAN project (Apr 2026 - Now); Technical lead (7-person team) for AI-assisted regional ATFM (Aug 2025 – Mar 2026); team lead (3-person team) for Singapore–Italy AI4ATM project (Apr 2024 – Mar 2026).
-- **Funding and grants:** Experience in national/agency programs (CAAS, NRF, A*STAR, Singapore, NSF China) and grant proposal writing (lead writer / technical coordinator roles listed below).
-- **Teaching and mentoring:** Teaching assistant experience; mentored 2 Ph.D. students, 3 M.Sc. students, and 5 undergraduate final-year projects; co-authored 10+ peer-reviewed publications with students.
+I received my Ph.D. in Mechanical and Aerospace Engineering from **Nanyang Technological University (NTU)**, Singapore, where I subsequently worked as a postdoctoral Research Fellow for 2.5 years. My research centers on AI and optimization for safety-critical air transportation systems, with a focus on **(i) safe and scalable low-altitude UAM and AAM planning and operations**, **(ii) human-centered AI for resilient ATM and regional ATFM**, and **(iii) AI-driven decision support for intelligent transportation systems**.
 
+<div class="notice--info" markdown="1">
+
+#### ✈️ New role and AirMinds Lab
+
+I am excited to join **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor in Fall 2026**, where I will establish the **AirMinds Lab — Human–AI Collaborative Intelligence for Aviation Systems**.
+
+> **AirMinds:** *Advancing aviation and air mobility toward a more accessible, safer, and smarter future.*
+
+**Research directions**
+
+- 🧠 **AI-driven prediction and decision-making under uncertainty:** AI, data-driven, and optimization methods for risk prediction, multimodal trajectory forecasting, anomaly detection, intention recognition, and intelligent decision-making.
+- 🤝 **Human–AI collaboration and multi-agent systems:** Safe and efficient collaboration among humans, AI agents, and autonomous systems, including aircraft coordination, distributed traffic optimization, LLM/VLM agents, and aerial embodied intelligence.
+
+Applications include **low-altitude safety and security, intelligent aviation, and logistics systems**, with particular interest in ATM–UTM integration, cross-border drone/eVTOL operations, air traffic and flow management, smart airport and airline operations. 
+
+#### 🎓 Join us
+
+I am recruiting **Ph.D. students for Spring and Fall 2027**, as well as **Research Assistants**. Applicants from AI, computer science, statistics, mathematics, operations research, automation, transportation, aviation, and related fields are welcome.
+
+🌏 I also welcome research collaborations and partnerships with students, researchers, industry, and government agencies worldwide.
+
+📩 To apply, email [pangbizhao@gmail.com](mailto:pangbizhao@gmail.com?subject=PhD%2FRA%20Application%20%E2%80%93%20Name%20%E2%80%93%20University%20%E2%80%93%20Research%20Interest) with the subject **“PhD/RA Application – Name – University – Research Interest.”**
+
+<!-- I look forward to learning, building, and growing together with future students and collaborators. ✨  -->
+
+</div>
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
+- *2026.08*: &nbsp; Two papers on safe **AAM–ATM integration**  (**U-Aerodrome** and **U-SAFE**) have been accepted for publication in *TR Part-C* and *Reliability Engineering & System Safety*, respectively. Congrats to the team!
 - *2026.06*: &nbsp; Call for Papers is open for the first edition of [**Aviation Innovation Conference for the Asia-Pacific (AICAP) 2027**](https://event.ntu.edu.sg/AICAP-2027). Paper submissions, industry exhibitions, and technology demonstrations are very welcome.
 - *2026.05*: &nbsp; Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
 - *2026.04*: &nbsp; I was appointed as *Team Lead* for the FlexMAN project, aiming to foster **human–AI hybrid automation** for NextGen Air Traffic Management systems.
@@ -173,22 +195,24 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <span class="badge">Work in 2026</span>
+    <span class="badge">RESS 2026</span>
     <img src="images/BIZHAO/RESS2026.png" alt="U-SAFE trajectory planning for UAM at aerodrome">
   </div>
   <div class="paper-box-text">
-    <h3 style="margin-top: 0;"><strong>[UAM-ATM Integration]</strong> <span style="font-weight: normal;">U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning</span></h3>
-    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang</strong>, Sameer Alam, Mir Feroskhan </p>
-    <p style="margin: 0.5em 0;">Under 2nd review, 2026.</p>
+    <h3 style="margin-top: 0;"><strong>[UAM-ATM Integration]</strong> <span style="font-weight: normal;">U-Safe: Urban air mobility safe integration into aerodrome via bio-inspired and reinforcement learning-based trajectory management</span></h3>
+    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang* </strong>, Sameer Alam, Mir Feroskhan (*PhD mentor)</p>
+    <p style="margin: 0.5em 0;"><em>Reliability Engineering & System Safety</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.ress.2026.113153">Paper</a></p>
     <ul style="margin: 0.5em 0;">
-      <li>An integrated trajectory planning framework that combines proactive risk-based planning with reactive inflight conflict resolution near aerodromes.</li>
+      <li>An integrated trajectory management framework that combines proactive risk-based planning with reactive in-flight conflict resolution for safe UAM integration near aerodromes.</li>
+      <li>Bio-inspired and reinforcement learning-based methods for scalable, safety-aware UAM–ATM integration at aerodromes.</li>
     </ul>
   </div>
 </div>
 
 ## Selected Journal Papers
 <sup>* Corresponding author</sup>
-
+- **Bizhao Pang**, Mingcheng Zhang, Xinting Hu, Sameer Alam, Guglielmo Lulli. MAF-DAC: Constrained Multi-Agent Reinforcement Learning with Multi-Head Action Filtering for Safe Aircraft Trajectory Planning. *IEEE Transactions on Intelligent Transportation Systems*, (2026), Accepted.
 - **Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli. In-flight multi-aircraft trajectory replanning under dynamic thunderstorm cells using decentralized deep reinforcement learning. *Advanced Engineering Informatics*, 65 (2025): 103157. [DOI](https://doi.org/10.1016/j.aei.2025.103157).
 - **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations. *Transportation Research Part E*, 192 (2024): 103717. [DOI](https://doi.org/10.1016/j.tre.2024.103717).
 - **Bizhao Pang**, Kin Huat Low, Vu N. Duong. Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time. *Transportation Research Part C*, 161 (2024): 104547. [DOI](https://doi.org/10.1016/j.trc.2024.104547).
@@ -196,9 +220,8 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 - **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments. *Reliability Engineering & System Safety*, 2022: 108399. [DOI](https://doi.org/10.1016/j.ress.2022.108399).
 - **Bizhao Pang**, Wei Dai, Xinting Hu, Fuqing Dai, Kin Huat Low. Multiple air route crossing waypoints optimization via artificial potential field method. *Chinese Journal of Aeronautics*, 34(4), 2021. [DOI](https://doi.org/10.1016/j.cja.2020.10.008).
 - Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of Urban Air Mobility at aerodrome. *Transportation Research Part C*, 184 (2026): 105506. [DOI](https://doi.org/10.1016/j.trc.2025.105506)
+- Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-Safe: Urban air mobility safe integration into aerodrome via bio-inspired and reinforcement learning-based trajectory management. *Reliability Engineering & System Safety*, (2026): 113153. [DOI](https://doi.org/10.1016/j.ress.2026.113153).
 - Mingcheng Zhang, **Bizhao Pang**, Chao Yan, Mir Feroskhan, Chen Lv. Real-time avoidance of building and dynamic geo-fencing for urban air mobility using deep reinforcement learning. *IEEE Transactions on Intelligent Transportation Systems* (2025). [DOI](https://doi.org/10.1109/TITS.2025.3589322).
-- Wei Dai, **Bizhao Pang**, Kin Huat Low. Conflict-free four-dimensional path planning for urban air mobility considering airspace occupancy. *Aerospace Science and Technology*, 119 (2021): 107154. [DOI](https://doi.org/10.1016/j.ast.2021.107154).
-- Yu Wu, Kin Huat Low, **Bizhao Pang**, Qingyu Tan. Swarm-based 4D path planning for drone operations in urban environments. *IEEE Transactions on Vehicular Technology*, 70(8), 7464–7479, 2021. [DOI](https://doi.org/10.1109/TVT.2021.3093318).
 
 ## Selected Conference Papers
 <sup>* Corresponding author</sup>
@@ -219,8 +242,7 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 <!-- ## Forthcoming Publications
 
 - **Bizhao Pang**, Mingcheng Zhang, Xinting Hu, Sameer Alam, Guglielmo Lulli. Constrained Multi-Agent Reinforcement Learning with Multi-Head Action Filtering for Safe Aircraft Trajectory Planning (2026), Under 2nd review.
-- **Bizhao Pang**, Mingcheng Zhang, Sameer Alam. LLM-Guided Multi-Agent Reinforcement Learning with Safety Constraints (2026), Working paper.
-- Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-SAFE: UAM Safe Integration into Aerodrome via Bio-Inspired and Reinforcement Learning-Based Trajectory Planning (2026), Under 2nd review. -->
+- **Bizhao Pang**, Mingcheng Zhang, Sameer Alam. LLM-Guided Multi-Agent Reinforcement Learning with Safety Constraints (2026), Working paper. -->
 
 
 <!-- <span class='anchor' id='-honors-and-awards'></span>
@@ -272,6 +294,8 @@ I received my Ph.D. in Aerospace Engineering from **Nanyang Technological Univer
 <span class='anchor' id='-presentations-and-talks'></span>
 # 🎤 Selected Presentations and Talks
 
+- **May 2026** &nbsp;&nbsp; **Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning**  
+  AAMAS 2026, Paphos, Cyprus
 - **Feb 2026** &nbsp;&nbsp; **Introduction and Demonstration of an AI-Assisted Regional ATFM Prototype**  
   Singapore Airshow 2026, Singapore
 - **May 2025** &nbsp;&nbsp; **Multi-Agent Aircraft Trajectory Planning Using Decentralized MARL**  

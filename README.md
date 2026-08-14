@@ -86,4 +86,4 @@ Open http://127.0.0.1:4000 in your browser.
 
 ## 📧 Contact
 
-Bizhao Pang — bizhao001@e.ntu.edu.sg
+Bizhao Pang — pangbizhao@gmail.com

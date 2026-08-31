@@ -1,6 +1,6 @@
 # Bizhao Pang - Academic Homepage
 
-Personal academic website for **Bizhao Pang**, Research Fellow at Air Traffic Management Research Institute (ATMRI), Nanyang Technological University.
+Personal academic website for **Bizhao Pang**, tenure-track Assistant Professor at The Hong Kong University of Science and Technology (Guangzhou).
 
 Based on [AcadHomepage](https://github.com/georgeliu233/georgeliu233.github.io) template.
 

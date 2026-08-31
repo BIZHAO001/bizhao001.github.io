@@ -25,9 +25,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bizhao Pang"
   avatar           : "images/bizhao-pang1.JPG"
-  bio              : "Research Fellow at Nanyang Technological University"
-  # location         : "Singapore"
-  employer         : "NTU, Singapore"
+  bio              : "Assistant Professor at HKUST(GZ)"
+  # location         : "Guangzhou, China"
+  employer         : "HKUST(GZ), Guangzhou, China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=UCdpKs8AAAAJ&hl=en&oi=ao"
   email            : "pangbizhao@gmail.com"

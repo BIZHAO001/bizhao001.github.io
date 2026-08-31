@@ -19,38 +19,41 @@ redirect_from:
 
 ## Hi, welcome!
 
-I received my Ph.D. in Mechanical and Aerospace Engineering from **Nanyang Technological University (NTU)**, Singapore, where I subsequently worked as a postdoctoral Research Fellow for 2.5 years. My research centers on AI and optimization for safety-critical air transportation systems, with a focus on **(i) safe and scalable low-altitude UAM and AAM planning and operations**, **(ii) human-centered AI for resilient ATM and regional ATFM**, and **(iii) AI-driven decision support for intelligent transportation systems**.
+I am a tenure-track **Assistant Professor** at **The Hong Kong University of Science and Technology (Guangzhou) [HKUST(GZ)]**, where I am establishing the **AirMinds Lab — Human–AI Collaborative Intelligence for Aviation Systems**. My research brings together AI, optimization, and human–AI collaboration to advance safe, efficient, and intelligent aviation and low-altitude mobility. I received my Ph.D. in Mechanical and Aerospace Engineering from **Nanyang Technological University (NTU)**, Singapore, and subsequently worked there as a postdoctoral Research Fellow before joining HKUST(GZ).
 
 <div class="notice--info" markdown="1">
 
-#### ✈️ New role and AirMinds Lab
+#### ✈️ AirMinds Lab
 
-I am excited to join **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor in Fall 2026**, where I will establish the **AirMinds Lab — Human–AI Collaborative Intelligence for Aviation Systems**.
-
-> **AirMinds:** *Advancing aviation and air mobility toward a more accessible, safer, and smarter future.*
+At HKUST(GZ), I am establishing the **AirMinds Lab — Human–AI Collaborative Intelligence for Aviation Systems**. Our vision is to bring together human, artificial, and autonomous intelligence through interdisciplinary research and help advance low-altitude mobility and aviation toward a more accessible, safer, and smarter future.
 
 **Research directions**
 
-- 🧠 **AI-driven prediction and decision-making under uncertainty:** AI, data-driven, and optimization methods for risk prediction, multimodal trajectory forecasting, anomaly detection, intention recognition, and intelligent decision-making.
-- 🤝 **Human–AI collaboration and multi-agent systems:** Safe and efficient collaboration among humans, AI agents, and autonomous systems, including aircraft coordination, distributed traffic optimization, LLM/VLM agents, and aerial embodied intelligence.
+- 🧠 **AI-driven prediction and decision-making under uncertainty:** We develop AI, data-driven, and optimization methods for risk prediction, multimodal trajectory forecasting, anomaly detection, intention recognition, and intelligent decision-making in complex and uncertain environments.
+- 🤝 **Trustworthy human–AI collaboration and multi-agent systems:** We study how humans, AI agents, and autonomous systems can safely and efficiently perceive, decide, and collaborate. Topics include LLM/VLM agents and aerial embodied intelligence, with applications to aircraft coordination, distributed traffic optimization, and human–AI decision-making.
 
-Applications include **low-altitude safety and security, intelligent aviation, and logistics systems**, with particular interest in ATM–UTM integration, cross-border drone/eVTOL operations, air traffic and flow management, smart airport and airline operations. 
+Applications primarily span **low-altitude safety and security, intelligent aviation, and logistics systems**, including low-altitude airspace safety, drone/eVTOL operations, digital air traffic management, and smart airport and airline operations.
 
 #### 🎓 Join us
 
-I am recruiting **Ph.D. students for Spring and Fall 2027**, as well as **Research Assistants**. Applicants from AI, computer science, statistics, mathematics, operations research, automation, transportation, aviation, and related fields are welcome.
+I am recruiting **Ph.D. students for Spring 2027 and Fall 2027**, as well as **Research Assistants**. Students from AI, computer science, statistics, mathematics, operations research, automation, transportation, aviation, and related backgrounds are welcome to apply; prior aviation experience is not required.
 
-🌏 I also welcome research collaborations and partnerships with students, researchers, industry, and government agencies worldwide.
+🌏 I also warmly welcome research collaborations with students and colleagues worldwide, as well as partnerships with industry and government agencies.
 
-📩 To apply, email [pangbizhao@gmail.com](mailto:pangbizhao@gmail.com?subject=PhD%2FRA%20Application%20%E2%80%93%20Name%20%E2%80%93%20University%20%E2%80%93%20Research%20Interest) with the subject **“PhD/RA Application – Name – University – Research Interest.”**
+📩 To apply, email [pangbizhao@gmail.com](mailto:pangbizhao@gmail.com?subject=PhD%2FRA%20Application%20%E2%80%93%20Name%20%E2%80%93%20Research%20Interest) with the subject **“PhD/RA Application – Name – Research Interest.”** Please include:
 
-<!-- I look forward to learning, building, and growing together with future students and collaborators. ✨  -->
+- Your CV
+- A brief description of your future research interests
+- One or two representative works, if available (paper links, GitHub repositories, project demos, etc.)
+
+I look forward to learning, building, and growing together with future students and collaborators. ✨
 
 </div>
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
+- *2026.08*: &nbsp; I joined **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor** and began establishing the **AirMinds Lab**.
 - *2026.08*: &nbsp; Two papers on safe **AAM–ATM integration**  ([**U-Aerodrome**](https://doi.org/10.1016/j.trc.2025.105506) and [**U-SAFE**](https://doi.org/10.1016/j.ress.2026.113153)) have been accepted for publication in *TR Part-C* and *Reliability Engineering & System Safety*, respectively. Congrats to the team!
 - *2026.06*: &nbsp; Call for Papers is open for the first edition of [**Aviation Innovation Conference for the Asia-Pacific (AICAP) 2027**](https://event.ntu.edu.sg/AICAP-2027). Paper submissions, industry exhibitions, and technology demonstrations are very welcome.
 - *2026.05*: &nbsp; Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
@@ -268,10 +271,12 @@ I am recruiting **Ph.D. students for Spring and Fall 2027**, as well as **Resear
 <span class='anchor' id='-work-experience'></span>
 # 💼 Work Experience
 
-- *2023.12 – Present*, **Research Fellow**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
-  - *Flexible Extended Arrival Management (FlexMAN) (Apr 2026 – Present)* — Team Lead: Developing human-AI hybrid automation for NextGen Air Traffic Management systems.  
-  - *AI-assisted Regional ATFM (Aug 2025 – Mar 2026)* — Tech Lead: Conceptualizing and developing a distributed AI-assisted cross-border ATFM system for ASEAN.  
-  - *AI4ATM (Apr 2024 – Mar 2026)* — Team Lead: Leading a cross-national team developing advanced AI models for resilient ATM under thunderstorms.  
+- *2026.08 – Present*, **Tenure-track Assistant Professor**, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China
+  - Establishing the **AirMinds Lab — Human–AI Collaborative Intelligence for Aviation Systems**.
+- *2023.12 – 2026.08*, **Research Fellow**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore
+  - *Flexible Extended Arrival Management (FlexMAN) (Apr 2026 – Aug 2026)* — Team Lead: Led the development of human–AI hybrid automation for NextGen Air Traffic Management systems.
+  - *AI-assisted Regional ATFM (Aug 2025 – Mar 2026)* — Tech Lead: Conceptualized and developed a distributed AI-assisted cross-border ATFM system for ASEAN.
+  - *AI4ATM (Apr 2024 – Mar 2026)* — Team Lead: Led a cross-national team developing advanced AI models for resilient ATM under thunderstorms.
   - *UAM System Development (Dec 2023 – Apr 2024)* — Algorithm Scientist: Developed a safe and scalable AI-based UAM system for Singapore's highly urbanized airspace.
 - *2019.08 – 2020.08*, **Research Associate**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
   - *UTM System with AirMatrix Concept* — Developed a digital low-altitude urban airspace management system for UAM.  

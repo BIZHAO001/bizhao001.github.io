@@ -271,12 +271,12 @@ I look forward to learning, building, and growing together with future students 
 <span class='anchor' id='-work-experience'></span>
 # 💼 Work Experience
 
-- *2026.08 – Present*, **Tenure-track Assistant Professor**, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China  
+- *2026.08 – Present*, **Tenure-track Assistant Professor**, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China
   - Establishing the **AirMinds Lab — Human–AI Collaborative Intelligence for Aviation Systems**.
-- *2023.12 – 2026.08*, **Research Fellow**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
-  - *Flexible Extended Arrival Management (FlexMAN) (Apr 2026 – Aug 2026)* — Team Lead: Led the development of human–AI hybrid automation for NextGen Air Traffic Management systems.  
-  - *AI-assisted Regional ATFM (Aug 2025 – Mar 2026)* — Tech Lead: Conceptualized and developed a distributed AI-assisted cross-border ATFM system for ASEAN.  
-  - *AI4ATM (Apr 2024 – Mar 2026)* — Team Lead: Led a cross-national team developing advanced AI models for resilient ATM under thunderstorms.  
+- *2023.12 – 2026.08*, **Research Fellow**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore
+  - *Flexible Extended Arrival Management (FlexMAN) (Apr 2026 – Aug 2026)* — Team Lead: Led the development of human–AI hybrid automation for NextGen Air Traffic Management systems.
+  - *AI-assisted Regional ATFM (Aug 2025 – Mar 2026)* — Tech Lead: Conceptualized and developed a distributed AI-assisted cross-border ATFM system for ASEAN.
+  - *AI4ATM (Apr 2024 – Mar 2026)* — Team Lead: Led a cross-national team developing advanced AI models for resilient ATM under thunderstorms.
   - *UAM System Development (Dec 2023 – Apr 2024)* — Algorithm Scientist: Developed a safe and scalable AI-based UAM system for Singapore's highly urbanized airspace.
 - *2019.08 – 2020.08*, **Research Associate**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
   - *UTM System with AirMatrix Concept* — Developed a digital low-altitude urban airspace management system for UAM.  

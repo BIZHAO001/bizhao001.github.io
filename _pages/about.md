@@ -280,21 +280,21 @@ Xinting Hu, **Bizhao Pang*** , Sameer Alam, Mir Feroskhan (*PhD mentor)
 <span class='anchor' id='-presentations-and-talks'></span>
 # 🎤 Selected Presentations and Talks
 
-- **May 2026**    **Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning**  
+- **May 2026**    **Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning**
   AAMAS 2026, Paphos, Cyprus
-- **Feb 2026**    **Introduction and Demonstration of an AI-Assisted Regional ATFM Prototype**  
+- **Feb 2026**    **Introduction and Demonstration of an AI-Assisted Regional ATFM Prototype**
   Singapore Airshow 2026, Singapore
-- **May 2025**    **Multi-Agent Aircraft Trajectory Planning Using Decentralized MARL**  
+- **May 2025**    **Multi-Agent Aircraft Trajectory Planning Using Decentralized MARL**
   University of Michigan, Ann Arbor, MI, USA
-- **May 2025**    **Decentralized DRL for Cooperative Multi-Aircraft Trajectory Planning**  
+- **May 2025**    **Decentralized DRL for Cooperative Multi-Aircraft Trajectory Planning**
   AAMAS 2025, Detroit, MI, USA
-- **Sep 2023**    **Population Density Estimation for Dynamic Ground-Risk Assessment of Drone Operations**  
+- **Sep 2023**    **Population Density Estimation for Dynamic Ground-Risk Assessment of Drone Operations**
   IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023, Barcelona, Spain
-- **Dec 2022**    **Scientific Paper Writing and Response to Reviewers' Comments**  
+- **Dec 2022**    **Scientific Paper Writing and Response to Reviewers' Comments**
   Civil Aviation University of China (CAUC), Tianjin, China
-- **Nov 2021**    **Risk Modelling and Assessment for UAM Operations in Urban Environments**  
+- **Nov 2021**    **Risk Modelling and Assessment for UAM Operations in Urban Environments**
   Cranfield University, Online
-- **Sep 2019**    **UAS Operations and Industry Perspectives**  
+- **Sep 2019**    **UAS Operations and Industry Perspectives**
   ICAO UAS Industry Symposium 2019, Montreal, Canada
 
 

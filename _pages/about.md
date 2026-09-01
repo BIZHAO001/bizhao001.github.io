@@ -53,21 +53,21 @@ I look forward to learning, building, and growing together with future students 
 # 🔥 News
 
 - *2026.08*: &nbsp; I joined **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor** and began establishing the research group **Human–AI Collaborative Intelligence for Aviation Systems**.
-- *2026.08*:   Two papers on safe **AAM–ATM integration**  (**U-Aerodrome** and **U-SAFE**) have been accepted for publication in *TR Part-C* and *Reliability Engineering & System Safety*, respectively. Congrats to the team!
-- *2026.06*:   Call for Papers is open for the first edition of **[Aviation Innovation Conference for the Asia-Pacific (AICAP) 2027](https://event.ntu.edu.sg/AICAP-2027)**. Paper submissions, industry exhibitions, and technology demonstrations are very welcome.
-- *2026.05*:   Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
-- *2026.04*:   I was appointed as *Team Lead* for the FlexMAN project, aiming to foster **human–AI hybrid automation** for NextGen Air Traffic Management systems.
-- *2026.02*:   **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from AIR Lab, MITRE Asia, A*STAR, and SUTD.
-- *2026.01*:   **AAMAS 2026** — Full paper accepted for oral presentation on constrained multi-agent reinforcement learning for safe planning. Thanks to all co-authors for the collaboration.
-- *2025.11*:   Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr Fan. Looking forward to future collaborations.
-- *2025.10*:   Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece.
-- *2025.08*:   Appointed as Technical Lead for the **AI-assisted Regional ATFM** project. Honoured to work with PI Prof. Luu Anh Tuan.
-- *2025.08*:   Hosted Prof. Eri Itoh (The University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
-- *2025.05*:   Had an insightful talk session with Mr. Yu, Founder and CEO of ToBlue Aviation Digital (Fintech start-up) in New York City, USA, on potential collaboration in AI-driven digitalization for aviation asset valuation and management.
-- *2025.05*:   Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
-- *2024.04*:   Appointed as Team Lead for the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with Prof. Guglielmo Lulli and his team from Lancaster University, UK.
-- *2023.12*:   Joined **ATMRI, NTU** as Research Fellow to work on human–AI teaming for Advanced Air Mobility.
-- *2023.09*:   Successfully defended my **Ph.D. thesis** on AI for safe and efficient Urban Air Mobility. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
+- *2026.08*: &nbsp; Two papers on safe **AAM–ATM integration**  ([**U-Aerodrome**](https://doi.org/10.1016/j.trc.2025.105506) and [**U-SAFE**](https://doi.org/10.1016/j.ress.2026.113153)) have been accepted for publication in *TR Part-C* and *Reliability Engineering & System Safety*, respectively. Congrats to the team!
+- *2026.06*: &nbsp; Call for Papers is open for the first edition of [**Aviation Innovation Conference for the Asia-Pacific (AICAP) 2027**](https://event.ntu.edu.sg/AICAP-2027). Paper submissions, industry exhibitions, and technology demonstrations are very welcome.
+- *2026.05*: &nbsp; Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
+- *2026.04*: &nbsp; I was appointed as *Team Lead* for the FlexMAN project, aiming to foster **human–AI hybrid automation** for NextGen Air Traffic Management systems.
+- *2026.02*: &nbsp; **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from AIR Lab, MITRE Asia, A*STAR, and SUTD.
+- *2026.01*: &nbsp; **AAMAS 2026** — Full paper accepted for oral presentation on constrained multi-agent reinforcement learning for safe planning. Thanks to all co-authors for the collaboration.
+- *2025.11*: &nbsp; Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr Fan. Looking forward to future collaborations.
+- *2025.10*: &nbsp; Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece.
+- *2025.08*: &nbsp; Appointed as Technical Lead for the **AI-assisted Regional ATFM** project. Honoured to work with PI Prof. Luu Anh Tuan.
+- *2025.08*: &nbsp; Hosted Prof. Eri Itoh (The University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
+- *2025.05*: &nbsp; Had an insightful talk session with Mr. Yu, Founder and CEO of ToBlue Aviation Digital (Fintech start-up) in New York City, USA, on potential collaboration in AI-driven digitalization for aviation asset valuation and management.
+- *2025.05*: &nbsp; Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
+- *2024.04*: &nbsp; Appointed as Team Lead for the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with Prof. Guglielmo Lulli and his team from Lancaster University, UK.
+- *2023.12*: &nbsp; Joined **ATMRI, NTU** as Research Fellow to work on human–AI teaming for Advanced Air Mobility.
+- *2023.09*: &nbsp; Successfully defended my **Ph.D. thesis** on AI for safe and efficient Urban Air Mobility. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications

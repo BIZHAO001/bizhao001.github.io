@@ -39,7 +39,7 @@ I am recruiting **Ph.D. students for Spring 2027 and Fall 2027**, as well as **M
 
 🌏 I also warmly welcome research collaborations with students and colleagues worldwide, as well as partnerships with industry and government agencies.
 
-📩 To apply, email [pangbizhao@gmail.com](mailto:pangbizhao@gmail.com?subject=PhD%2FMPhil%2FRA%20Application%20%E2%80%93%20Name%20%E2%80%93%20Research%20Interest) with the subject **“PhD/MPhil/RA Application – Name – Research Interest.”** Please include:
+📩 To apply, email [bizhaopang@hkust-gz.edu.cn](mailto:bizhaopang@hkust-gz.edu.cn?subject=PhD%2FMPhil%2FRA%20Application%20%E2%80%93%20Name%20%E2%80%93%20Research%20Interest) with the subject **“PhD/MPhil/RA Application – Name – Research Interest.”** Please include:
 
 - Your CV
 - A brief description of your future research interests

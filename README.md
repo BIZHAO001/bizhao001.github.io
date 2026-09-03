@@ -86,4 +86,4 @@ Open http://127.0.0.1:4000 in your browser.
 
 ## 📧 Contact
 
-Bizhao Pang — pangbizhao@gmail.com
+Bizhao Pang — bizhaopang@hkust-gz.edu.cn

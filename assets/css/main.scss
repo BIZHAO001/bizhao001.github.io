@@ -119,6 +119,20 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+details.news-more {
+    margin: 0.25em 0 1.5em;
+
+    summary {
+        cursor: pointer;
+        font-weight: 600;
+        width: fit-content;
+    }
+
+    summary:hover {
+        text-decoration: underline;
+    }
+}
+
 /* Responsive video/iframe container for Showcase section */
 .video-container {
     position: relative;

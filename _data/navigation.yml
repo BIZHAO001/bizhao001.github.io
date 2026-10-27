@@ -1,22 +1,23 @@
 # main links
 main:
-  - title: "About"
+  - title: "About Me"
     url: "/#about-me"
-
-  - title: "Research"
-    url: "/#-research"
-
-  - title: "Openings"
-    url: "/#-openings"
-
-  - title: "Publications"
-    url: "/#-publications"
 
   - title: "News"
     url: "/#-news"
 
-  - title: "Experience"
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Education"
     url: "/#-education"
 
-  - title: "People"
-    url: "/#-people"
+  - title: "Work Experience"
+    url: "/#-work-experience"
+
+  - title: "Research Projects"
+    url: "/#-research-projects"
+
+  - title: "Selected Presentations and Talks"
+    url: "/#-presentations-and-talks"
+    

@@ -17,36 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## About
+## Hi, welcome!
 
-I am a tenure-track **Assistant Professor** at **The Hong Kong University of Science and Technology (Guangzhou)**. I am establishing the research group **Human–AI Collaborative Intelligence for Aviation Systems**. The group studies AI, optimization, and human–AI collaboration for safe and intelligent aviation and low-altitude mobility. I received my Ph.D. in Mechanical and Aerospace Engineering from **Nanyang Technological University**, Singapore, and worked there as a Research Fellow before joining HKUST(GZ).
+I am a tenure-track **Assistant Professor** at **The Hong Kong University of Science and Technology (Guangzhou) [HKUST(GZ)]**, where I am establishing the research group **Human–AI Collaborative Intelligence for Aviation Systems**. My research combines AI, data science, optimization, statistics, and human factors to develop trustworthy decision-support and autonomous systems for safety-critical aviation applications. I received my Ph.D. in Mechanical and Aerospace Engineering from **Nanyang Technological University (NTU)**, Singapore, and subsequently worked there as a postdoctoral Research Fellow before joining HKUST(GZ).
 
-<span class='anchor' id='-research'></span>
-# Research
+<div class="notice--info" markdown="1">
 
-The group works on three connected themes. Aviation is the primary application domain: low-altitude mobility, ATM/UTM integration, intelligent aviation, logistics, and related autonomous systems.
+#### ✈️ Human–AI Collaborative Intelligence for Aviation Systems
 
-- **AI-driven prediction and decision-making under uncertainty.** Risk prediction, multimodal trajectory forecasting, anomaly detection, intention recognition, and decisions in uncertain environments.
-- **Human–AI collaboration and multi-agent systems.** How humans, AI agents, and autonomous systems perceive, decide, and collaborate, including aircraft coordination, distributed traffic optimization, LLM/VLM agents, and aerial embodied intelligence.
-- **Trustworthy AI for safety-critical systems.** Robust, explainable, and safety-aware methods, tested in high-consequence operations.
+The group focuses on three connected research themes:
 
-The long-term aim is to help aviation and air mobility become more accessible, safer, and smarter.
+- 🧠 **AI-driven prediction and decision-making under uncertainty:** We develop AI, data-driven, and optimization methods for risk prediction, multimodal trajectory forecasting, anomaly detection, intention recognition, and intelligent decision-making in complex and uncertain environments.
+- 🤝 **Human–AI collaboration and multi-agent systems:** We study how humans, AI agents, and autonomous systems can safely and efficiently perceive, decide, and collaborate, including aircraft coordination, distributed traffic optimization, human–AI decision-making, LLM/VLM agents, and aerial embodied intelligence.
+- 🛡️ **Trustworthy AI for safety-critical systems:** We develop robust, explainable, and safety-aware AI methods and validate them in high-consequence, real-world operational settings.
 
-<span class='anchor' id='-openings'></span>
-# Openings
+Aviation is our primary application domain, including **low-altitude mobility, ATM/UTM integration, intelligent aviation, logistics, and related autonomous systems**. We emphasize interdisciplinary, impact-driven research that combines AI, data science, optimization, statistics, human factors, and real-world system validation. Our long-term vision is to help aviation and air mobility become more accessible, safer, and smarter.
 
-I am recruiting **Ph.D. students for Spring 2027 and Fall 2027**, **MPhil students**, and **Research Assistants**. Applicants may come from AI, computer science, statistics, mathematics, operations research, automation, transportation, aviation, or a related field. Prior aviation experience is not required.
+#### 🎓 Ph.D./MPhil/RA Openings
 
-Research collaborations with students and colleagues, and partnerships with industry and government agencies, are welcome.
+I am recruiting **Ph.D. students for Spring 2027 and Fall 2027**, as well as **MPhil students and Research Assistants**. Students from AI, computer science, statistics, mathematics, operations research, automation, transportation, aviation, and related backgrounds are welcome to apply; prior aviation experience is not required.
 
-To apply, email [bizhaopang@hkust-gz.edu.cn](mailto:bizhaopang@hkust-gz.edu.cn?subject=PhD%2FMPhil%2FRA%20Application%20%E2%80%93%20Name%20%E2%80%93%20Research%20Interest) with the subject **“PhD/MPhil/RA Application – Name – Research Interest.”** Please include:
+🌏 I also warmly welcome research collaborations with students and colleagues worldwide, as well as partnerships with industry and government agencies.
+
+📩 To apply, email [bizhaopang@hkust-gz.edu.cn](mailto:bizhaopang@hkust-gz.edu.cn?subject=PhD%2FMPhil%2FRA%20Application%20%E2%80%93%20Name%20%E2%80%93%20Research%20Interest) with the subject **“PhD/MPhil/RA Application – Name – Research Interest.”** Please include:
 
 - Your CV
 - A brief description of your future research interests
-- One or two representative works, if available
+- One or two representative works, if available (paper links, GitHub repositories, project demos, etc.)
+
+I look forward to learning, building, and growing together with future students and collaborators. ✨
+
+</div>
 
 <span class='anchor' id='-news'></span>
-# News
+# 🔥 News
 
 - *2026.08*: &nbsp; I joined **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor** and began establishing the research group **Human–AI Collaborative Intelligence for Aviation Systems**.
 - *2026.08*: &nbsp; Two papers on safe **AAM–ATM integration**  ([**U-Aerodrome**](https://doi.org/10.1016/j.trc.2025.105506) and [**U-SAFE**](https://doi.org/10.1016/j.ress.2026.113153)) have been accepted for publication in *TR Part-C* and *Reliability Engineering & System Safety*, respectively. Congrats to the team!
@@ -66,7 +70,7 @@ To apply, email [bizhaopang@hkust-gz.edu.cn](mailto:bizhaopang@hkust-gz.edu.cn?s
 - *2023.09*: &nbsp; Successfully defended my **Ph.D. thesis** on AI for safe and efficient Urban Air Mobility. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
 
 <span class='anchor' id='-publications'></span>
-# Publications
+# 📝 Publications
 
 
 
@@ -263,7 +267,7 @@ To apply, email [bizhaopang@hkust-gz.edu.cn](mailto:bizhaopang@hkust-gz.edu.cn?s
 
 
 <span class='anchor' id='-education'></span>
-# Education
+# 📖 Education
 
 - *2020.08 – 2023.09*, Doctor of Philosophy (AI and Intelligent Transportation), Nanyang Technological University, Singapore  
 - *2016.09 – 2019.06*, Master of Engineering (ATM and Operations Research), Civil Aviation University of China, Tianjin, China  
@@ -272,7 +276,7 @@ To apply, email [bizhaopang@hkust-gz.edu.cn](mailto:bizhaopang@hkust-gz.edu.cn?s
 
 
 <span class='anchor' id='-work-experience'></span>
-# Work experience
+# 💼 Work Experience
 
 - *2026.08 – Present*, **Tenure-track Assistant Professor**, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China
   - Establishing the research group **Human–AI Collaborative Intelligence for Aviation Systems**.
@@ -288,7 +292,7 @@ To apply, email [bizhaopang@hkust-gz.edu.cn](mailto:bizhaopang@hkust-gz.edu.cn?s
 
 
 <span class='anchor' id='-research-projects'></span>
-# Projects
+# 🔬 Research Projects
 
 **AI for Resilient ATM and Cross-Border ATFM Systems**
 
@@ -306,7 +310,7 @@ To apply, email [bizhaopang@hkust-gz.edu.cn](mailto:bizhaopang@hkust-gz.edu.cn?s
 
 
 <span class='anchor' id='-presentations-and-talks'></span>
-# Talks
+# 🎤 Selected Presentations and Talks
 
 - **May 2026**    **Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning**
   AAMAS 2026, Paphos, Cyprus
@@ -325,54 +329,9 @@ To apply, email [bizhaopang@hkust-gz.edu.cn](mailto:bizhaopang@hkust-gz.edu.cn?s
 - **Sep 2019**    **UAS Operations and Industry Perspectives**
   ICAO UAS Industry Symposium 2019, Montreal, Canada
 
-<span class='anchor' id='-people'></span>
-# People
 
-Student and collaborator profiles will be added here as the group grows.
 
-<!-- Add each person with this block:
-<div class="person-list">
-  <article class="person">
-    <img src="images/people/name.jpg" alt="Name">
-    <div>
-      <h2>Name</h2>
-      <p>Role and research focus. Link to a page or email if useful.</p>
-    </div>
-  </article>
-</div>
--->
 
-<span class='anchor' id='-teaching'></span>
-# Teaching
-
-Courses and teaching materials will be added here.
-
-<!-- Add a course as a short heading and paragraph:
-## Course title, term
-Description, syllabus, or notes.
--->
-
-<span class='anchor' id='-demos'></span>
-# Demonstrations
-
-Project videos, GIFs, and figures will be added here.
-
-<!-- Add media with this block:
-<div class="media-grid">
-  <figure class="media-card">
-    <div class="media-frame">
-      <img src="images/demo.gif" alt="Description of the demonstration">
-    </div>
-    <figcaption>Short caption.</figcaption>
-  </figure>
-  <figure class="media-card">
-    <div class="media-frame">
-      <iframe src="https://www.youtube.com/embed/VIDEO_ID" title="Demonstration title"></iframe>
-    </div>
-    <figcaption>Short caption.</figcaption>
-  </figure>
-</div>
--->
 
 <div style="display: none;">
 <!-- HIDDEN: Showcase and Gallery sections - remove the wrapper div to show again -->

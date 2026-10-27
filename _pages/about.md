@@ -55,12 +55,12 @@ I look forward to learning, building, and growing together with future students 
 - *2026.08*: &nbsp; I joined **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor** and began establishing the research group **Human–AI Collaborative Intelligence for Aviation Systems**.
 - *2026.08*: &nbsp; Two papers on safe **AAM–ATM integration**  ([**U-Aerodrome**](https://doi.org/10.1016/j.trc.2025.105506) and [**U-SAFE**](https://doi.org/10.1016/j.ress.2026.113153)) have been accepted for publication in *TR Part-C* and *Reliability Engineering & System Safety*, respectively. Congrats to the team!
 - *2026.06*: &nbsp; Call for Papers is open for the first edition of [**Aviation Innovation Conference for the Asia-Pacific (AICAP) 2027**](https://event.ntu.edu.sg/AICAP-2027). Paper submissions, industry exhibitions, and technology demonstrations are very welcome.
+- *2026.05*: &nbsp; Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
+- *2026.04*: &nbsp; I was appointed as *Team Lead* for the FlexMAN project, aiming to foster **human–AI hybrid automation** for NextGen Air Traffic Management systems.
 
 <details class="news-more" markdown="1">
 <summary>Earlier news</summary>
 
-- *2026.05*: &nbsp; Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
-- *2026.04*: &nbsp; I was appointed as *Team Lead* for the FlexMAN project, aiming to foster **human–AI hybrid automation** for NextGen Air Traffic Management systems.
 - *2026.02*: &nbsp; **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from AIR Lab, MITRE Asia, A*STAR, and SUTD.
 - *2026.01*: &nbsp; **AAMAS 2026** — Full paper accepted for oral presentation on constrained multi-agent reinforcement learning for safe planning. Thanks to all co-authors for the collaboration.
 - *2025.11*: &nbsp; Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr Fan. Looking forward to future collaborations.

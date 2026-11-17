@@ -35,7 +35,7 @@ Aviation is our primary application domain, including **low-altitude mobility, A
 
 #### 🎓 Ph.D./MPhil/RA Openings
 
-I am recruiting **Ph.D. students for Spring 2027 and Fall 2027**, as well as **MPhil students and Research Assistants**. Students from AI, computer science, statistics, mathematics, operations research, automation, transportation, aviation, and related backgrounds are welcome to apply; prior aviation experience is not required.
+I am recruiting **Ph.D. students for Fall 2027 and Fall 2028**, as well as **MPhil students and Research Assistants**. Students from AI, computer science, statistics, mathematics, operations research, automation, transportation, aviation, and related backgrounds are welcome to apply; prior aviation experience is not required.
 
 🌏 I also warmly welcome research collaborations with students and colleagues worldwide, as well as partnerships with industry and government agencies.
 
@@ -44,6 +44,8 @@ I am recruiting **Ph.D. students for Spring 2027 and Fall 2027**, as well as **M
 - Your CV
 - A brief description of your future research interests
 - One or two representative works, if available (paper links, GitHub repositories, project demos, etc.)
+
+Only shortlisted candidates will receive an interview invitation within one month. Thank you for your patience.
 
 I look forward to learning, building, and growing together with future students and collaborators. ✨
 

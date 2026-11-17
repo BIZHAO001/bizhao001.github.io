@@ -19,11 +19,11 @@ redirect_from:
 
 ## Hi, welcome!
 
-I am a tenure-track **Assistant Professor** at **The Hong Kong University of Science and Technology (Guangzhou) [HKUST(GZ)]**, where I am establishing the research group **Human–AI Collaborative Intelligence for Aviation Systems**. My research combines AI, data science, optimization, statistics, and human factors to develop trustworthy decision-support and autonomous systems for safety-critical aviation applications. I received my Ph.D. in Mechanical and Aerospace Engineering from **Nanyang Technological University (NTU)**, Singapore, and subsequently worked there as a postdoctoral Research Fellow before joining HKUST(GZ).
+I am a tenure-track **Assistant Professor** at **The Hong Kong University of Science and Technology (Guangzhou) [HKUST(GZ)]**, where I am establishing the research group **Trustworthy AI for Air Transportation Systems**. My research combines AI, data science, optimization, statistics, and human factors to develop trustworthy decision-support and autonomous systems for safety-critical aviation applications. I received my Ph.D. in Mechanical and Aerospace Engineering from **Nanyang Technological University (NTU)**, Singapore, and subsequently worked there as a postdoctoral Research Fellow before joining HKUST(GZ).
 
 <div class="notice--info" markdown="1">
 
-#### ✈️ Human–AI Collaborative Intelligence for Aviation Systems
+#### ✈️ Trustworthy AI for Air Transportation Systems
 
 The group focuses on three connected research themes:
 
@@ -47,14 +47,12 @@ I am recruiting **Ph.D. students for Fall 2027 and Fall 2028**, as well as **MPh
 
 Only shortlisted candidates will receive an interview invitation within one month. Thank you for your patience.
 
-I look forward to learning, building, and growing together with future students and collaborators. ✨
-
 </div>
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
 
-- *2026.08*: &nbsp; I joined **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor** and began establishing the research group **Human–AI Collaborative Intelligence for Aviation Systems**.
+- *2026.08*: &nbsp; I joined **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor** and began establishing the research group **Trustworthy AI for Air Transportation Systems**.
 - *2026.08*: &nbsp; Two papers on safe **AAM–ATM integration**  ([**U-Aerodrome**](https://doi.org/10.1016/j.trc.2025.105506) and [**U-SAFE**](https://doi.org/10.1016/j.ress.2026.113153)) have been accepted for publication in *TR Part-C* and *Reliability Engineering & System Safety*, respectively. Congrats to the team!
 - *2026.06*: &nbsp; Call for Papers is open for the first edition of [**Aviation Innovation Conference for the Asia-Pacific (AICAP) 2027**](https://event.ntu.edu.sg/AICAP-2027). Paper submissions, industry exhibitions, and technology demonstrations are very welcome.
 - *2026.05*: &nbsp; Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
@@ -231,13 +229,17 @@ I look forward to learning, building, and growing together with future students 
 - **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations. *Transportation Research Part E*, 192 (2024): 103717. [DOI](https://doi.org/10.1016/j.tre.2024.103717).
 - **Bizhao Pang**, Kin Huat Low, Vu N. Duong. Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time. *Transportation Research Part C*, 161 (2024): 104547. [DOI](https://doi.org/10.1016/j.trc.2024.104547).
 - **Bizhao Pang**, Kin Huat Low, Chen Lv. Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm. *Transportation Research Part C*, 139 (2022): 103666. [DOI](https://doi.org/10.1016/j.trc.2022.103666).
+
+<details class="news-more" markdown="1">
+<summary>Earlier journal papers</summary>
+
 - **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments. *Reliability Engineering & System Safety*, 2022: 108399. [DOI](https://doi.org/10.1016/j.ress.2022.108399).
 - **Bizhao Pang**, Wei Dai, Xinting Hu, Fuqing Dai, Kin Huat Low. Multiple air route crossing waypoints optimization via artificial potential field method. *Chinese Journal of Aeronautics*, 34(4), 2021. [DOI](https://doi.org/10.1016/j.cja.2020.10.008).
 - Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of Urban Air Mobility at aerodrome. *Transportation Research Part C*, 184 (2026): 105506. [DOI](https://doi.org/10.1016/j.trc.2025.105506)
 - Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-Safe: Urban air mobility safe integration into aerodrome via bio-inspired and reinforcement learning-based trajectory management. *Reliability Engineering & System Safety*, (2026): 113153. [DOI](https://doi.org/10.1016/j.ress.2026.113153).
 - Mingcheng Zhang, **Bizhao Pang**, Chao Yan, Mir Feroskhan, Chen Lv. Real-time avoidance of building and dynamic geo-fencing for urban air mobility using deep reinforcement learning. *IEEE Transactions on Intelligent Transportation Systems* (2025). [DOI](https://doi.org/10.1109/TITS.2025.3589322).
 
-
+</details>
 
 ## Selected Conference Papers
 
@@ -248,6 +250,10 @@ I look forward to learning, building, and growing together with future students 
 - **Bizhao Pang**, Xinting Hu, Yi Yang Poh, Kin Huat Low. Population density estimation for dynamic ground risk assessment of drone operations. *IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023*, Barcelona, Spain.
 - **Bizhao Pang**, Mingcheng Zhang, Chao Deng, Kin Huat Low. Investigation of flight technical error for UAV separation requirement. *AIAA Aviation Forum (AVIATION) 2022*.
 - **Bizhao Pang**, C.H. John Wang, Kin Huat Low. Framework of level-of-autonomy-based concept of operations: UAS capabilities. *IEEE/AIAA Digital Avionics Systems Conference (DASC) 2021*.
+
+<details class="news-more" markdown="1">
+<summary>Earlier conference papers</summary>
+
 - **Bizhao Pang**, Wei Dai, Thu Ra, Kin Huat Low. A concept of airspace configuration and operational rules for UAS. *IEEE/AIAA Digital Avionics Systems Conference (DASC) 2020*, San Antonio, TX, USA.
 - **Bizhao Pang**, Ng Ee Meng, Kin Huat Low. UAV trajectory estimation and deviation analysis for contingency management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
 - **Bizhao Pang**, Qingyu Tan, Kin Huat Low. A risk model based traffic network for adaptive urban airspace management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
@@ -255,9 +261,7 @@ I look forward to learning, building, and growing together with future students 
 - Hu, Xinting, Yu Wu, and **Bizhao Pang\***. Path planning for drone delivery in dense building environments. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2023*, Bilbao, Spain, 24-28 September, 2023.
 - Mingcheng Zhang, **Bizhao Pang\***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Scalable Multi-Agent Reinforcement Learning for Decentralized UAM Deconfliction Considering Downstream Impact. *IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)*, Naples, Italy, 15–18 September, 2026. Accepted.
 
-
-
-
+</details>
 
 <!-- <span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
@@ -287,7 +291,7 @@ I look forward to learning, building, and growing together with future students 
 # 💼 Work Experience
 
 - *2026.08 – Present*, **Tenure-track Assistant Professor**, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China
-  - Establishing the research group **Human–AI Collaborative Intelligence for Aviation Systems**.
+  - Establishing the research group **Trustworthy AI for Air Transportation Systems**.
 - *2023.12 – 2026.08*, **Research Fellow**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore
   - *Flexible Extended Arrival Management (FlexMAN) (Apr 2026 – Aug 2026)* — Team Lead: Led the development of human–AI hybrid automation for NextGen Air Traffic Management systems.
   - *AI-assisted Regional ATFM (Aug 2025 – Mar 2026)* — Tech Lead: Conceptualized and developed a distributed AI-assisted cross-border ATFM system for ASEAN.
@@ -330,6 +334,10 @@ I look forward to learning, building, and growing together with future students 
   AAMAS 2025, Detroit, MI, USA
 - **Sep 2023**    **Population Density Estimation for Dynamic Ground-Risk Assessment of Drone Operations**
   IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023, Barcelona, Spain
+
+<details class="news-more" markdown="1">
+<summary>Earlier talks</summary>
+
 - **Dec 2022**    **Scientific Paper Writing and Response to Reviewers' Comments**
   Civil Aviation University of China (CAUC), Tianjin, China
 - **Nov 2021**    **Risk Modelling and Assessment for UAM Operations in Urban Environments**
@@ -337,9 +345,7 @@ I look forward to learning, building, and growing together with future students 
 - **Sep 2019**    **UAS Operations and Industry Perspectives**
   ICAO UAS Industry Symposium 2019, Montreal, Canada
 
-
-
-
+</details>
 
 <div style="display: none;">
 <!-- HIDDEN: Showcase and Gallery sections - remove the wrapper div to show again -->

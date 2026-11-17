@@ -230,17 +230,6 @@ Only shortlisted candidates will receive an interview invitation within one mont
 - **Bizhao Pang**, Kin Huat Low, Vu N. Duong. Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time. *Transportation Research Part C*, 161 (2024): 104547. [DOI](https://doi.org/10.1016/j.trc.2024.104547).
 - **Bizhao Pang**, Kin Huat Low, Chen Lv. Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm. *Transportation Research Part C*, 139 (2022): 103666. [DOI](https://doi.org/10.1016/j.trc.2022.103666).
 
-<details class="news-more" markdown="1">
-<summary>Earlier journal papers</summary>
-
-- **Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low. UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments. *Reliability Engineering & System Safety*, 2022: 108399. [DOI](https://doi.org/10.1016/j.ress.2022.108399).
-- **Bizhao Pang**, Wei Dai, Xinting Hu, Fuqing Dai, Kin Huat Low. Multiple air route crossing waypoints optimization via artificial potential field method. *Chinese Journal of Aeronautics*, 34(4), 2021. [DOI](https://doi.org/10.1016/j.cja.2020.10.008).
-- Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of Urban Air Mobility at aerodrome. *Transportation Research Part C*, 184 (2026): 105506. [DOI](https://doi.org/10.1016/j.trc.2025.105506)
-- Xinting Hu, **Bizhao Pang**, Sameer Alam, Mir Feroskhan. U-Safe: Urban air mobility safe integration into aerodrome via bio-inspired and reinforcement learning-based trajectory management. *Reliability Engineering & System Safety*, (2026): 113153. [DOI](https://doi.org/10.1016/j.ress.2026.113153).
-- Mingcheng Zhang, **Bizhao Pang**, Chao Yan, Mir Feroskhan, Chen Lv. Real-time avoidance of building and dynamic geo-fencing for urban air mobility using deep reinforcement learning. *IEEE Transactions on Intelligent Transportation Systems* (2025). [DOI](https://doi.org/10.1109/TITS.2025.3589322).
-
-</details>
-
 ## Selected Conference Papers
 
 <sup>* Corresponding author</sup>
@@ -250,18 +239,8 @@ Only shortlisted candidates will receive an interview invitation within one mont
 - **Bizhao Pang**, Xinting Hu, Yi Yang Poh, Kin Huat Low. Population density estimation for dynamic ground risk assessment of drone operations. *IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023*, Barcelona, Spain.
 - **Bizhao Pang**, Mingcheng Zhang, Chao Deng, Kin Huat Low. Investigation of flight technical error for UAV separation requirement. *AIAA Aviation Forum (AVIATION) 2022*.
 - **Bizhao Pang**, C.H. John Wang, Kin Huat Low. Framework of level-of-autonomy-based concept of operations: UAS capabilities. *IEEE/AIAA Digital Avionics Systems Conference (DASC) 2021*.
-
-<details class="news-more" markdown="1">
-<summary>Earlier conference papers</summary>
-
-- **Bizhao Pang**, Wei Dai, Thu Ra, Kin Huat Low. A concept of airspace configuration and operational rules for UAS. *IEEE/AIAA Digital Avionics Systems Conference (DASC) 2020*, San Antonio, TX, USA.
-- **Bizhao Pang**, Ng Ee Meng, Kin Huat Low. UAV trajectory estimation and deviation analysis for contingency management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
-- **Bizhao Pang**, Qingyu Tan, Kin Huat Low. A risk model based traffic network for adaptive urban airspace management. *AIAA Aviation Forum (AVIATION) 2020*, Reno, Nevada, USA.
-- **Bizhao Pang**, Ng Ee Meng, Kin Huat Low. Contingency management of urban UTM based on airspace contexts. *ICAO UAS Industry Symposium 2019*, Montreal, Canada.
 - Hu, Xinting, Yu Wu, and **Bizhao Pang\***. Path planning for drone delivery in dense building environments. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2023*, Bilbao, Spain, 24-28 September, 2023.
 - Mingcheng Zhang, **Bizhao Pang\***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Scalable Multi-Agent Reinforcement Learning for Decentralized UAM Deconfliction Considering Downstream Impact. *IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)*, Naples, Italy, 15–18 September, 2026. Accepted.
-
-</details>
 
 <!-- <span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards

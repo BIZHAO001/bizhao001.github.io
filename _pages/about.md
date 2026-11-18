@@ -15,13 +15,13 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-
+<span class='anchor' id='about-me'></span>
 
 ## Hi, welcome!
 
 I am a tenure-track **Assistant Professor** at **The Hong Kong University of Science and Technology (Guangzhou) [HKUST(GZ)]**, where I am establishing the research group **Trustworthy AI for Air Transportation Systems**. My research combines AI, data science, optimization, statistics, and human factors to develop trustworthy decision-support and autonomous systems for safety-critical aviation applications. I received my Ph.D. in Mechanical and Aerospace Engineering from **Nanyang Technological University (NTU)**, Singapore, and subsequently worked there as a postdoctoral Research Fellow before joining HKUST(GZ).
 
-
+<div class="notice--info" markdown="1">
 
 #### ✈️ Trustworthy AI for Air Transportation Systems
 
@@ -47,147 +47,182 @@ I am recruiting **Ph.D. students for Fall 2027 and Fall 2028**, as well as **MPh
 
 Only shortlisted candidates will receive an interview invitation within one month. Thank you for your patience.
 
+</div>
 
-
-
-
+<span class='anchor' id='-news'></span>
 # 🔥 News
 
-- *2026.08*:   I joined **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor** and began establishing the research group **Trustworthy AI for Air Transportation Systems**.
-- *2026.08*:   Two papers on safe **AAM–ATM integration**  (**[U-Aerodrome](https://doi.org/10.1016/j.trc.2025.105506)** and **[U-SAFE](https://doi.org/10.1016/j.ress.2026.113153)**) have been accepted for publication in *TR Part-C* and *Reliability Engineering & System Safety*, respectively. Congrats to the team!
-- *2026.06*:   Call for Papers is open for the first edition of **[Aviation Innovation Conference for the Asia-Pacific (AICAP) 2027](https://event.ntu.edu.sg/AICAP-2027)**. Paper submissions, industry exhibitions, and technology demonstrations are very welcome.
-- *2026.05*:   Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
-- *2026.04*:   I was appointed as *Team Lead* for the FlexMAN project, aiming to foster **human–AI hybrid automation** for NextGen Air Traffic Management systems.
+- *2026.08*: &nbsp; I joined **The Hong Kong University of Science and Technology (Guangzhou)** as a tenure-track **Assistant Professor** and began establishing the research group **Trustworthy AI for Air Transportation Systems**.
+- *2026.08*: &nbsp; Two papers on safe **AAM–ATM integration**  ([**U-Aerodrome**](https://doi.org/10.1016/j.trc.2025.105506) and [**U-SAFE**](https://doi.org/10.1016/j.ress.2026.113153)) have been accepted for publication in *TR Part-C* and *Reliability Engineering & System Safety*, respectively. Congrats to the team!
+- *2026.06*: &nbsp; Call for Papers is open for the first edition of [**Aviation Innovation Conference for the Asia-Pacific (AICAP) 2027**](https://event.ntu.edu.sg/AICAP-2027). Paper submissions, industry exhibitions, and technology demonstrations are very welcome.
+- *2026.05*: &nbsp; Two papers accepted by **IEEE ITSC 2026** on scalable MARL and prediction-then-optimization. Congrats to the first authors, Dr Mingcheng and Dr Yixi.
+- *2026.04*: &nbsp; I was appointed as *Team Lead* for the FlexMAN project, aiming to foster **human–AI hybrid automation** for NextGen Air Traffic Management systems.
 
-Earlier news
+<details class="news-more" markdown="1">
+<summary>Earlier news</summary>
 
-- *2026.02*:   **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from AIR Lab, MITRE Asia, A*STAR, and SUTD.
-- *2026.01*:   **AAMAS 2026** — Full paper accepted for oral presentation on constrained multi-agent reinforcement learning for safe planning. Thanks to all co-authors for the collaboration.
-- *2025.11*:   Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr Fan. Looking forward to future collaborations.
-- *2025.10*:   Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece.
-- *2025.08*:   Appointed as Technical Lead for the **AI-assisted Regional ATFM** project. Honoured to work with PI Prof. Luu Anh Tuan.
-- *2025.08*:   Hosted Prof. Eri Itoh (The University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
-- *2025.05*:   Had an insightful talk session with Mr. Yu, Founder and CEO of ToBlue Aviation Digital (Fintech start-up) in New York City, USA, on potential collaboration in AI-driven digitalization for aviation asset valuation and management.
-- *2025.05*:   Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
-- *2024.04*:   Appointed as Team Lead for the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with Prof. Guglielmo Lulli and his team from Lancaster University, UK.
-- *2023.12*:   Joined **ATMRI, NTU** as Research Fellow to work on human–AI teaming for Advanced Air Mobility.
-- *2023.09*:   Successfully defended my **Ph.D. thesis** on AI for safe and efficient Urban Air Mobility. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
+- *2026.02*: &nbsp; **Singapore Airshow 2026** — Invited as an exhibitor to showcase the AI-assisted Regional ATFM prototype for aviation stakeholders. Grateful for engaging discussions with colleagues from AIR Lab, MITRE Asia, A*STAR, and SUTD.
+- *2026.01*: &nbsp; **AAMAS 2026** — Full paper accepted for oral presentation on constrained multi-agent reinforcement learning for safe planning. Thanks to all co-authors for the collaboration.
+- *2025.11*: &nbsp; Visited **ETH Zurich** for discussions on multi-agent systems and privacy-preserving decision making with Dr Fan. Looking forward to future collaborations.
+- *2025.10*: &nbsp; Presented our research on automated AI tools for next-generation air transportation at **ICTAI 2025** in Greece.
+- *2025.08*: &nbsp; Appointed as Technical Lead for the **AI-assisted Regional ATFM** project. Honoured to work with PI Prof. Luu Anh Tuan.
+- *2025.08*: &nbsp; Hosted Prof. Eri Itoh (The University of Tokyo) for a workshop on Regional ATFM and collaborative decision making. Thanks for the inspiring exchange.
+- *2025.05*: &nbsp; Had an insightful talk session with Mr. Yu, Founder and CEO of ToBlue Aviation Digital (Fintech start-up) in New York City, USA, on potential collaboration in AI-driven digitalization for aviation asset valuation and management.
+- *2025.05*: &nbsp; Delivered a research talk at **University of Michigan, Ann Arbor**. Many thanks to Prof. Max Li for the kind invitation and hospitality.
+- *2024.04*: &nbsp; Appointed as Team Lead for the **Singapore–Italy AI4ATM** collaborative project on resilient aircraft operations under convective weather. Grateful to work with Prof. Guglielmo Lulli and his team from Lancaster University, UK.
+- *2023.12*: &nbsp; Joined **ATMRI, NTU** as Research Fellow to work on human–AI teaming for Advanced Air Mobility.
+- *2023.09*: &nbsp; Successfully defended my **Ph.D. thesis** on AI for safe and efficient Urban Air Mobility. Heartfelt thanks to my supervisors Prof. Kin Huat Low, Prof. Chen Lv, and Prof. Vu N. Duong for their guidance and support throughout the journey.
 
+</details>
 
-
-
-
+<span class='anchor' id='-publications'></span>
 # 📝 Publications
+
+
 
 ## Recent Highlights
 
-AAMAS 2026 (Oral) ![MAF-Net for safe trajectory planning](images/BIZHAO/AAMAS2026.png)
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">AAMAS 2026 (Oral)</span>
+    <img src="images/BIZHAO/AAMAS2026.png" alt="MAF-Net for safe trajectory planning">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;"><strong>[AI for ATM]</strong> <span style="font-weight: normal;">Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning</span></h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Mingcheng Zhang, Xinting Hu, Duc-Thinh Pham, Sameer Alam, Guglielmo Lulli</p>
+    <p style="margin: 0.5em 0;"><em>Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.65109/MQDV9851">Paper</a> | <a href="https://www.youtube.com/watch?v=l5eEwZ6mpqc&t=12s">Video</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>MAF-Net: A multi-head action filter network integrated with decentralized MARL to enable safe and scalable multi-agent planning under uncertainty.</li>
+    </ul>
+  </div>
+</div>
 
-### **[AI for ATM]** Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">AEI 2025</span>
+    <img src="images/BIZHAO/AEI2025.png" alt="Multi-aircraft trajectory planning under thunderstorms">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;"><strong>[AI for ATM]</strong> <span style="font-weight: normal;">A multi-aircraft co-operative trajectory planning model under dynamic thunderstorm cells using decentralized deep reinforcement learning</span></h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli</p>
+    <p style="margin: 0.5em 0;"><em>Advanced Engineering Informatics</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.aei.2025.103157">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>A framework for multi-aircraft trajectory planning under dynamic thunderstorms.</li>
+      <li>A Decentralized MDP for cooperative planning to handle secondary conflicts.</li>
+      <li>An improved Independent Deep Deterministic Policy Gradient solution algorithm.</li>
+    </ul>
+  </div>
+</div>
 
-**Bizhao Pang**, Mingcheng Zhang, Xinting Hu, Duc-Thinh Pham, Sameer Alam, Guglielmo Lulli
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">TRE 2024</span>
+    <img src="images/BIZHAO/TRE_2024.png" alt="Stochastic route optimization for safe drone delivery">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;"><strong>[Safe AAM]</strong> <span style="font-weight: normal;">Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations</span></h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Wei Dai, Kin Huat Low</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part E: Logistics and Transportation Review</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.tre.2024.103717">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>A two-stage stochastic optimization method for AAM risk management.</li>
+      <li>Flight approval and execution decisions are made jointly to mitigate dynamic ground risk.</li>
+    </ul>
+  </div>
+</div>
 
-*Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)*
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">TRC 2024</span>
+    <img src="images/BIZHAO/TRC2024.png" alt="Chance-constrained UAM traffic flow optimization">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;"><strong>[Safe AAM]</strong> <span style="font-weight: normal;">Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time</span></h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Kin Huat Low, Vu N. Duong</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2024.104547">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>A chance-constrained UTFM model is developed to optimize UAM traffic flow under trajectory uncertainty.</li>
+      <li>A concept of Waypoint Occupancy Time is proposed to manage dynamic separation.</li>
+      <li>A hierarchical stochastic search algorithm is designed to solve the non-convex UTFM optimization problem.</li>
+    </ul>
+  </div>
+</div>
 
-[Paper](https://doi.org/10.65109/MQDV9851) | [Video](https://www.youtube.com/watch?v=l5eEwZ6mpqc&t=12s)
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">RESS 2022</span>
+    <img src="images/BIZHAO/RESS2022.PNG" alt="UAV path optimization with third-party risk assessment">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;"><strong>[Safe AAM]</strong> <span style="font-weight: normal;">UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments</span></h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Xinting Hu, Wei Dai, Kin Huat Low</p>
+    <p style="margin: 0.5em 0;"><em>Reliability Engineering &amp; System Safety</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.ress.2022.108399">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>A third-party risk assessment framework incorporating fatality risk, property damage risk, and noise impact for safe and societally acceptable UAM operations in low-altitude urban airspace.</li>
+    </ul>
+  </div>
+</div>
 
-- MAF-Net: A multi-head action filter network integrated with decentralized MARL to enable safe and scalable multi-agent planning under uncertainty.
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">TRC 2022</span>
+    <img src="images/BIZHAO/TRC2022.PNG" alt="Adaptive conflict resolution for multi-UAV 4D routes">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;"><strong>[Safe AAM]</strong> <span style="font-weight: normal;">Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm</span></h3>
+    <p style="margin: 0.5em 0;"><strong>Bizhao Pang</strong>, Kin Huat Low, Chen Lv</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2022.103666">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>An adaptive UAV conflict resolution framework for 4D route optimization that integrates scheduling, speed adjustment, and rerouting strategies.</li>
+    </ul>
+  </div>
+</div>
 
-AEI 2025 ![Multi-aircraft trajectory planning under thunderstorms](images/BIZHAO/AEI2025.png)
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">TRC 2026</span>
+    <img src="images/BIZHAO/TRC2026.png" alt="U-Aerodrome airspace reconfiguration for UAM at aerodrome">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;"><strong>[UAM-ATM Integration]</strong> <span style="font-weight: normal;">U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of urban air mobility at aerodrome</span></h3>
+    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang* </strong>, Sameer Alam, Mir Feroskhan (*PhD mentor)</p>
+    <p style="margin: 0.5em 0;"><em>Transportation Research Part C: Emerging Technologies</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.trc.2025.105506">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>U-Aerodrome, a data-driven and risk-bounded airspace reconfiguration framework designed to support the safe and flexible integration of UAM operations near controlled aerodromes.</li>
+      <li>Probabilistic and risk-bounded framework to optimize spatiotemporal boundaries.</li>
+      <li>Handling Gaussian and non-Gaussian data distributions for robust safety assurance.</li>
+    </ul>
+  </div>
+</div>
 
-### **[AI for ATM]** A multi-aircraft co-operative trajectory planning model under dynamic thunderstorm cells using decentralized deep reinforcement learning
+<div class="paper-box">
+  <div class="paper-box-image">
+    <span class="badge">RESS 2026</span>
+    <img src="images/BIZHAO/RESS2026.png" alt="U-SAFE trajectory planning for UAM at aerodrome">
+  </div>
+  <div class="paper-box-text">
+    <h3 style="margin-top: 0;"><strong>[UAM-ATM Integration]</strong> <span style="font-weight: normal;">U-Safe: Urban air mobility safe integration into aerodrome via bio-inspired and reinforcement learning-based trajectory management</span></h3>
+    <p style="margin: 0.5em 0;">Xinting Hu, <strong>Bizhao Pang* </strong>, Sameer Alam, Mir Feroskhan (*PhD mentor)</p>
+    <p style="margin: 0.5em 0;"><em>Reliability Engineering &amp; System Safety</em></p>
+    <p style="margin: 0.5em 0;"><a href="https://doi.org/10.1016/j.ress.2026.113153">Paper</a></p>
+    <ul style="margin: 0.5em 0;">
+      <li>An integrated trajectory management framework that combines proactive risk-based planning with reactive in-flight conflict resolution for safe UAM integration near aerodromes.</li>
+      <li>Bio-inspired and reinforcement learning-based methods for scalable, safety-aware UAM–ATM integration at aerodromes.</li>
+    </ul>
+  </div>
+</div>
 
-**Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli
 
-*Advanced Engineering Informatics*
-
-[Paper](https://doi.org/10.1016/j.aei.2025.103157)
-
-- A framework for multi-aircraft trajectory planning under dynamic thunderstorms.
-- A Decentralized MDP for cooperative planning to handle secondary conflicts.
-- An improved Independent Deep Deterministic Policy Gradient solution algorithm.
-
-TRE 2024 ![Stochastic route optimization for safe drone delivery](images/BIZHAO/TRE_2024.png)
-
-### **[Safe AAM]** Stochastic route optimization under dynamic ground risk uncertainties for safe drone delivery operations
-
-**Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low
-
-*Transportation Research Part E: Logistics and Transportation Review*
-
-[Paper](https://doi.org/10.1016/j.tre.2024.103717)
-
-- A two-stage stochastic optimization method for AAM risk management.
-- Flight approval and execution decisions are made jointly to mitigate dynamic ground risk.
-
-TRC 2024 ![Chance-constrained UAM traffic flow optimization](images/BIZHAO/TRC2024.png)
-
-### **[Safe AAM]** Chance-constrained UAM traffic flow optimization with fast disruption recovery under uncertain waypoint occupancy time
-
-**Bizhao Pang**, Kin Huat Low, Vu N. Duong
-
-*Transportation Research Part C: Emerging Technologies*
-
-[Paper](https://doi.org/10.1016/j.trc.2024.104547)
-
-- A chance-constrained UTFM model is developed to optimize UAM traffic flow under trajectory uncertainty.
-- A concept of Waypoint Occupancy Time is proposed to manage dynamic separation.
-- A hierarchical stochastic search algorithm is designed to solve the non-convex UTFM optimization problem.
-
-RESS 2022 ![UAV path optimization with third-party risk assessment](images/BIZHAO/RESS2022.PNG)
-
-### **[Safe AAM]** UAV path optimization with an integrated cost assessment model considering third-party risks in metropolitan environments
-
-**Bizhao Pang**, Xinting Hu, Wei Dai, Kin Huat Low
-
-*Reliability Engineering & System Safety*
-
-[Paper](https://doi.org/10.1016/j.ress.2022.108399)
-
-- A third-party risk assessment framework incorporating fatality risk, property damage risk, and noise impact for safe and societally acceptable UAM operations in low-altitude urban airspace.
-
-TRC 2022 ![Adaptive conflict resolution for multi-UAV 4D routes](images/BIZHAO/TRC2022.PNG)
-
-### **[Safe AAM]** Adaptive conflict resolution for multi-UAV 4D routes optimization using stochastic fractal search algorithm
-
-**Bizhao Pang**, Kin Huat Low, Chen Lv
-
-*Transportation Research Part C: Emerging Technologies*
-
-[Paper](https://doi.org/10.1016/j.trc.2022.103666)
-
-- An adaptive UAV conflict resolution framework for 4D route optimization that integrates scheduling, speed adjustment, and rerouting strategies.
-
-TRC 2026 ![U-Aerodrome airspace reconfiguration for UAM at aerodrome](images/BIZHAO/TRC2026.png)
-
-### **[UAM-ATM Integration]** U-Aerodrome: Data-driven and risk-bounded airspace reconfiguration for safe integration of urban air mobility at aerodrome
-
-Xinting Hu, **Bizhao Pang*** , Sameer Alam, Mir Feroskhan (*PhD mentor)
-
-*Transportation Research Part C: Emerging Technologies*
-
-[Paper](https://doi.org/10.1016/j.trc.2025.105506)
-
-- U-Aerodrome, a data-driven and risk-bounded airspace reconfiguration framework designed to support the safe and flexible integration of UAM operations near controlled aerodromes.
-- Probabilistic and risk-bounded framework to optimize spatiotemporal boundaries.
-- Handling Gaussian and non-Gaussian data distributions for robust safety assurance.
-
-RESS 2026 ![U-SAFE trajectory planning for UAM at aerodrome](images/BIZHAO/RESS2026.png)
-
-### **[UAM-ATM Integration]** U-Safe: Urban air mobility safe integration into aerodrome via bio-inspired and reinforcement learning-based trajectory management
-
-Xinting Hu, **Bizhao Pang*** , Sameer Alam, Mir Feroskhan (*PhD mentor)
-
-*Reliability Engineering & System Safety*
-
-[Paper](https://doi.org/10.1016/j.ress.2026.113153)
-
-- An integrated trajectory management framework that combines proactive risk-based planning with reactive in-flight conflict resolution for safe UAM integration near aerodromes.
-- Bio-inspired and reinforcement learning-based methods for scalable, safety-aware UAM–ATM integration at aerodromes.
 
 ## Selected Journal Papers
 
-* Corresponding author
+<sup>* Corresponding author</sup>
 
 - **Bizhao Pang**, Mingcheng Zhang, Xinting Hu, Sameer Alam, Guglielmo Lulli. MAF-DAC: Constrained Multi-Agent Reinforcement Learning with Multi-Head Action Filtering for Safe Aircraft Trajectory Planning. *IEEE Transactions on Intelligent Transportation Systems*, (2026), Accepted.
 - **Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli. In-flight multi-aircraft trajectory replanning under dynamic thunderstorm cells using decentralized deep reinforcement learning. *Advanced Engineering Informatics*, 65 (2025): 103157. [DOI](https://doi.org/10.1016/j.aei.2025.103157).
@@ -197,16 +232,15 @@ Xinting Hu, **Bizhao Pang*** , Sameer Alam, Mir Feroskhan (*PhD mentor)
 
 ## Selected Conference Papers
 
-* Corresponding author
+<sup>* Corresponding author</sup>
 
 - **Bizhao Pang**, Mingcheng Zhang, Xinting Hu, Thinh Pham, Sameer Alam, Guglielmo Lulli. Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning. *25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)*, Paphos, Cyprus, May 25–29, 2026. **(Oral)**
 - **Bizhao Pang**, Xinting Hu, Mingcheng Zhang, Sameer Alam, Guglielmo Lulli. Decentralized Deep Reinforcement Learning for Cooperative Multi-Agent Flight Trajectory Planning in Adverse Weather. *24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)*, Detroit, Michigan, USA, May 19–23, 2025.
 - **Bizhao Pang**, Xinting Hu, Yi Yang Poh, Kin Huat Low. Population density estimation for dynamic ground risk assessment of drone operations. *IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023*, Barcelona, Spain.
-- Hu, Xinting, Yu Wu, and **Bizhao Pang**. Path planning for drone delivery in dense building environments. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2023*, Bilbao, Spain, 24-28 September, 2023.
-- Mingcheng Zhang, **Bizhao Pang**, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Scalable Multi-Agent Reinforcement Learning for Decentralized UAM Deconfliction Considering Downstream Impact. *IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)*, Naples, Italy, 15–18 September, 2026. Accepted.
+- Hu, Xinting, Yu Wu, and **Bizhao Pang\***. Path planning for drone delivery in dense building environments. *IEEE International Conference on Intelligent Transportation Systems (ITSC) 2023*, Bilbao, Spain, 24-28 September, 2023.
+- Mingcheng Zhang, **Bizhao Pang\***, Duc-Thinh Pham, Vu N. Duong, Sameer Alam, Anh Tuan Luu. Scalable Multi-Agent Reinforcement Learning for Decentralized UAM Deconfliction Considering Downstream Impact. *IEEE 29th International Conference on Intelligent Transportation Systems (ITSC)*, Naples, Italy, 15–18 September, 2026. Accepted.
 
-
-
+<!-- <span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
 
 - *2020* NTU Research Student Scholarship, Nanyang Technological University
@@ -221,6 +255,7 @@ Xinting Hu, **Bizhao Pang*** , Sameer Alam, Mir Feroskhan (*PhD mentor)
 
 
 
+<span class='anchor' id='-education'></span>
 # 📖 Education
 
 - *2020.08 – 2023.09*, Doctor of Philosophy (AI and Intelligent Transportation), Nanyang Technological University, Singapore  
@@ -229,13 +264,23 @@ Xinting Hu, **Bizhao Pang*** , Sameer Alam, Mir Feroskhan (*PhD mentor)
 
 
 
+<span class='anchor' id='-work-experience'></span>
 # 💼 Work Experience
 
 - *2026.08 – Present*, **Tenure-track Assistant Professor**, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China
-
-  *2023.12 – 2026.08*, **Research Fellow**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore
+  - Establishing the research group **Trustworthy AI for Air Transportation Systems**.
+- *2023.12 – 2026.08*, **Research Fellow**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore
+  - *Flexible Extended Arrival Management (FlexMAN) (Apr 2026 – Aug 2026)* — Team Lead: Led the development of human–AI hybrid automation for NextGen Air Traffic Management systems.
+  - *AI-assisted Regional ATFM (Aug 2025 – Mar 2026)* — Tech Lead: Conceptualized and developed a distributed AI-assisted cross-border ATFM system for ASEAN.
+  - *AI4ATM (Apr 2024 – Mar 2026)* — Team Lead: Led a cross-national team developing advanced AI models for resilient ATM under thunderstorms.
+  - *UAM System Development (Dec 2023 – Apr 2024)* — Algorithm Scientist: Developed a safe and scalable AI-based UAM system for Singapore's highly urbanized airspace.
 - *2019.08 – 2020.08*, **Research Associate**, Air Traffic Management Research Institute (ATMRI), NTU, Singapore  
+  - *UTM System with AirMatrix Concept* — Developed a digital low-altitude urban airspace management system for UAM.  
+  - *Risk-based UAM Concept and Algorithm* — Developed risk-based concepts and planning algorithms for safe UAM operations.
 
+
+
+<span class='anchor' id='-research-projects'></span>
 # 🔬 Research Projects
 
 **AI for Resilient ATM and Cross-Border ATFM Systems**
@@ -253,23 +298,35 @@ Xinting Hu, **Bizhao Pang*** , Sameer Alam, Mir Feroskhan (*PhD mentor)
 
 
 
+<span class='anchor' id='-presentations-and-talks'></span>
 # 🎤 Selected Presentations and Talks
 
 - **May 2026**    **Constrained Multi-Agent Reinforcement Learning with MAF-Net for Safe Trajectory Planning**
-AAMAS 2026, Paphos, Cyprus
+  AAMAS 2026, Paphos, Cyprus
 - **Feb 2026**    **Introduction and Demonstration of an AI-Assisted Regional ATFM Prototype**
-Singapore Airshow 2026, Singapore
+  Singapore Airshow 2026, Singapore
 - **May 2025**    **Multi-Agent Aircraft Trajectory Planning Using Decentralized MARL**
-University of Michigan, Ann Arbor, MI, USA
+  University of Michigan, Ann Arbor, MI, USA
 - **May 2025**    **Decentralized DRL for Cooperative Multi-Aircraft Trajectory Planning**
-AAMAS 2025, Detroit, MI, USA
-- **Sep 2023**    **Population Density Estimation for Dynamic Ground-Risk Assessment of Drone Operations**  
-IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023, Barcelona, Spain
+  AAMAS 2025, Detroit, MI, USA
+- **Sep 2023**    **Population Density Estimation for Dynamic Ground-Risk Assessment of Drone Operations**
+  IEEE/AIAA Digital Avionics Systems Conference (DASC) 2023, Barcelona, Spain
 
+<details class="news-more" markdown="1">
+<summary>Earlier talks</summary>
 
+- **Dec 2022**    **Scientific Paper Writing and Response to Reviewers' Comments**
+  Civil Aviation University of China (CAUC), Tianjin, China
+- **Nov 2021**    **Risk Modelling and Assessment for UAM Operations in Urban Environments**
+  Cranfield University, Online
+- **Sep 2019**    **UAS Operations and Industry Perspectives**
+  ICAO UAS Industry Symposium 2019, Montreal, Canada
 
+</details>
 
-
+<div style="display: none;">
+<!-- HIDDEN: Showcase and Gallery sections - remove the wrapper div to show again -->
+<span class='anchor' id='-showcase'></span>
 # 🎬 Showcase
 
 *This section is ready for you to add videos and figures to showcase your work. See instructions below.*
@@ -303,6 +360,7 @@ Safe and scalable AI-based UAM system for Singapore's urban airspace. Add your v
 
 
 
+<span class='anchor' id='-gallery'></span>
 # 📷 Gallery
 
 Photos from research, teaching, and daily life.
@@ -330,3 +388,5 @@ Add caption for your photo
 Add caption for your photo
 
 *To add your photos: save images in* `images/gallery/` *and update the* `src` *paths and* `figcaption` *text above. Supported formats: jpg, png, webp.*
+
+</div>
